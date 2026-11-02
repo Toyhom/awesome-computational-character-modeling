@@ -781,10 +781,6 @@ Know a relevant paper? [Suggest it here](https://github.com/Toyhom/awesome-compu
 
 See [How to contribute](CONTRIBUTING.md) for step-by-step instructions.
 
-## Acknowledgments
-
-The community reading-list format was inspired by [LLM Role-Playing/Persona Papers and Resources](https://github.com/Neph0s/awesome-llm-role-playing-with-persona). The organization and initial records in this repository come from our survey manuscript and its bibliography.
-
 ## License
 
 Repository tooling and original documentation are available under the [MIT License](LICENSE). Bibliographic facts identify the cited works; rights in the papers and linked resources remain with their respective owners.
