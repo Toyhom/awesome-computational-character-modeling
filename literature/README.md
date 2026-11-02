@@ -2,7 +2,7 @@
 
 # Literature directory
 
-Each CSV contains complete, independently editable metadata for one manuscript category. The generated reading lists and bibliographies preserve those records.
+Browse references by survey chapter and subsection.
 
 | Section | Category | Edit metadata | Read | Export |
 | :-- | :-- | :-- | :-- | :-- |

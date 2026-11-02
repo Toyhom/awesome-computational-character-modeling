@@ -11,16 +11,12 @@ Zhenhua Xu; Dongsheng Chen; Shuo Wang; Jian Li; Chengjie Wang; Meng Han; Yabiao 
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
 
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities
-
 <a id="zhang2026facts"></a>
 ## From Facts to Insights: A Persona-Driven Dual Memory Framework and Dataset for Role-Playing Agents
 
 Rongsheng Zhang; Ruofan Hu; Weijie Chen; Jiji Tang; Junnan Ren; Wanying Wu; Xunuoyan Chen; Tangjie Lv; Tao Jin; Zhou Zhao
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2605.25693) · [Code](https://github.com/role2026/rolememo)
-
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities
 
 <a id="cheng2025psymem"></a>
 ## PsyMem: Fine-grained psychological alignment and Explicit Memory Control for Advanced Role-Playing LLMs
@@ -29,16 +25,12 @@ Xilong Cheng; Yunxiao Qin; Yuting Tan; Zhengnan Li; Ye Wang; Hongjiang Xiao; Yua
 
 **2026 · Transactions of the Association for Computational Linguistics** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
 
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities
-
 <a id="wang2026reward"></a>
 ## Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing
 
 Miao Wang; Yuling Shi; Yijiang Li; Yeheng Chen; Xiaodong Gu; Bin Li; Bo Gao; Jun Wang; Zengxin Han; Jingtong Wu; Yaduan Ruan
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2605.04733)
-
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities
 
 <a id="li2025audiorole"></a>
 ## AudioRole: An Audio Dataset for Character Role-Playing in Large Language Models
@@ -47,16 +39,12 @@ Wenyu Li; Xiaoqi Jiao; Yi Chang; Guangyan Zhang; Yiwen Guo
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2509.23435)
 
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities
-
 <a id="wang2025coser"></a>
 ## CoSER: Coordinating LLM-Based Persona Simulation of Established Roles
 
 Xintao Wang; Heng Wang; Yifei Zhang; Xinfeng Yuan; Rui Xu; Jen-tse Huang; Siyu Yuan; Haoran Guo; Jiangjie Chen; Shuchang Zhou; Wei Wang; Yanghua Xiao
 
 **2025 · Proceedings of the 42nd International Conference on Machine Learning** · [Paper](https://arxiv.org/abs/2502.09082)
-
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities
 
 <a id="dai2024mmrole"></a>
 ## MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents
@@ -65,16 +53,12 @@ Yanqi Dai; Huanran Hu; Lei Wang; Shengjie Jin; Xu Chen; Zhiwu Lu
 
 **2025 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2408.04203) · [Code](https://github.com/YanqiDai/MMRole)
 
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities
-
 <a id="zhang2025omnicharacter"></a>
 ## OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction
 
 Haonan Zhang; Run Luo; Xiong Liu; Yuchuan Wu; Ting-En Lin; Pengpeng Zeng; Qiang Qu; Feiteng Fang; Min Yang; Lianli Gao; Jingkuan Song; Fei Huang; Yongbin Li
 
 **2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.1276) · [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OmniCharacter) · [arXiv](https://arxiv.org/abs/2505.20277)
-
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities
 
 <a id="lu2025rolemrc"></a>
 ## RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following
@@ -83,13 +67,9 @@ Junru Lu; Jiazheng Li; Guodong Shen; Lin Gui; Siyu An; Yulan He; Di Yin; Xing Su
 
 **2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1082) · [Code](https://github.com/LuJunru/RoleMRC) · [arXiv](https://arxiv.org/abs/2502.11387)
 
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities
-
 <a id="ran2024capturing"></a>
 ## Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data
 
 Yiting Ran; Xintao Wang; Rui Xu; Xinfeng Yuan; Jiaqing Liang; Deqing Yang; Yanghua Xiao
 
 **2024 · Findings of the Association for Computational Linguistics: EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.853) · [Code](https://github.com/alienet1109/RolePersonality) · [arXiv](https://arxiv.org/abs/2406.18921)
-
-Source: sections/03\_data\_foundations.tex / Role Information and Data Modalities

@@ -4,4 +4,4 @@
 
 Survey §III.F · [Back to README](../../README.md#methods-comparative-synthesis) · [Edit category](../../catalog/methods/comparative-synthesis.csv) · [BibTeX](comparative-synthesis.bib)
 
-This subsection compares the five modeling categories above; the manuscript introduces no additional citations here.
+A comparison of the five modeling approaches and the character properties they aim to control.

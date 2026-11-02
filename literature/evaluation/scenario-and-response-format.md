@@ -11,13 +11,9 @@ Junru Lu; Jiazheng Li; Guodong Shen; Lin Gui; Siyu An; Yulan He; Di Yin; Xing Su
 
 **2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1082) · [Code](https://github.com/LuJunru/RoleMRC) · [arXiv](https://arxiv.org/abs/2502.11387)
 
-Source: sections/05\_evaluation.tex / Test Settings / Scenario and response format
-
 <a id="chen2024socialbench"></a>
 ## SocialBench: Sociality Evaluation of Role-Playing Conversational Agents
 
 Hongzhan Chen; Hehong Chen; Ming Yan; Wenshen Xu; Xing Gao; Weizhou Shen; Xiaojun Quan; Chenliang Li; Ji Zhang; Fei Huang; Jingren Zhou
 
 **2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.125) · [Code](https://github.com/X-PLUG/SocialBench) · [arXiv](https://arxiv.org/abs/2403.13679)
-
-Source: sections/05\_evaluation.tex / Test Settings / Scenario and response format

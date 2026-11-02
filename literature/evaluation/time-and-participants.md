@@ -11,16 +11,12 @@ Lei Wang; Jianxun Lian; Yi Huang; Yanqi Dai; Haoxuan Li; Xu Chen; Xing Xie; Ji-R
 
 **2025 · Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL)** · [Paper](https://doi.org/10.18653/v1/2025.naacl-long.323) · [arXiv](https://arxiv.org/abs/2412.05631)
 
-Source: sections/05\_evaluation.tex / Test Settings / Time and participants
-
 <a id="chuang2025debate"></a>
 ## DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents
 
 Yun-Shiuan Chuang; Ruixuan Tu; Chengtao Dai; You Li; Smit Vasani; Binwei Yao; Michael Henry Tessler; Sijia Yang; Dhavan Shah; Robert Hawkins; Junjie Hu; Timothy T. Rogers
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2510.25110)
-
-Source: sections/05\_evaluation.tex / Test Settings / Time and participants
 
 <a id="wu2025furina"></a>
 ## FURINA: A Fully Customizable Role-Playing Benchmark via Scalable Multi-Agent Collaboration Pipeline
@@ -29,13 +25,9 @@ Haotian Wu; Shufan Jiang; Chios Chen; Yiyang Feng; Hehai Lin; Heqing Zou; Yao Sh
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2510.06800)
 
-Source: sections/05\_evaluation.tex / Test Settings / Time and participants
-
 <a id="tu2024charactereval"></a>
 ## CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation
 
 Quan Tu; Shilong Fan; Zihang Tian; Rui Yan
 
 **2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.638) · [Code](https://github.com/morecry/CharacterEval) · [arXiv](https://arxiv.org/abs/2401.01275)
-
-Source: sections/05\_evaluation.tex / Test Settings / Time and participants

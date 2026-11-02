@@ -2,13 +2,6 @@
   "name": "Awesome Computational Character Modeling",
   "slug": "awesome-computational-character-modeling",
   "survey_title": "Computational Character Modeling: A Survey of Role-Playing Agents from a Behavioral Science Perspective",
-  "authors": [
-    "Yihong Tang",
-    "Kehai Chen",
-    "Min Zhang"
-  ],
-  "corpus_cutoff": "2026-07-16",
-  "created": "2026-11-02",
   "groups": [
     {
       "id": "methods",
@@ -62,7 +55,7 @@
           "title_zh": "比较与综合",
           "section": "III.F",
           "file": "catalog/methods/comparative-synthesis.csv",
-          "description": "This subsection compares the five modeling categories above; the manuscript introduces no additional citations here."
+          "description": "A comparison of the five modeling approaches and the character properties they aim to control."
         }
       ]
     },

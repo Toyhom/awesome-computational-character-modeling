@@ -2,5 +2,5 @@ Describe the paper additions or corrections and the corresponding survey subsect
 
 - [ ] Every affected category contains a complete, independently maintained record.
 - [ ] Paper and resource links come from identifiable sources.
-- [ ] `python scripts/build.py` has regenerated the reading lists.
-- [ ] `python -m unittest discover -s tests -v` and `python scripts/build.py --check` pass.
+
+If you ran `python scripts/build.py`, include the generated changes. Otherwise, let us know that this pull request contains CSV edits only; a maintainer can regenerate the pages.

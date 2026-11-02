@@ -11,16 +11,12 @@ Rongsheng Zhang; Ruofan Hu; Weijie Chen; Jiji Tang; Junnan Ren; Wanying Wu; Xunu
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2605.25693) · [Code](https://github.com/role2026/rolememo)
 
-Source: sections/05\_evaluation.tex / Test Settings / Character source
-
 <a id="peng2026rethinking"></a>
 ## Rethinking Role-Playing Evaluation: Anonymous Benchmarking and a Systematic Study of Personality Effects
 
 Ji-Lun Peng; Yun-Nung Chen
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2603.03915)
-
-Source: sections/05\_evaluation.tex / Test Settings / Character source
 
 <a id="chuang2025debate"></a>
 ## DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents
@@ -29,8 +25,6 @@ Yun-Shiuan Chuang; Ruixuan Tu; Chengtao Dai; You Li; Smit Vasani; Binwei Yao; Mi
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2510.25110)
 
-Source: sections/05\_evaluation.tex / Test Settings / Character source
-
 <a id="wang2023incharacter"></a>
 ## InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews
 
@@ -38,13 +32,9 @@ Xintao Wang; Yunze Xiao; Jen-tse Huang; Siyu Yuan; Rui Xu; Haoran Guo; Quan Tu; 
 
 **2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.102) · [arXiv](https://arxiv.org/abs/2310.17976)
 
-Source: sections/05\_evaluation.tex / Test Settings / Character source
-
 <a id="shen2023roleeval"></a>
 ## RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models
 
 Tianhao Shen; Sun Li; Quan Tu; Deyi Xiong
 
 **2023 · arXiv** · [Paper](https://arxiv.org/abs/2312.16132)
-
-Source: sections/05\_evaluation.tex / Test Settings / Character source

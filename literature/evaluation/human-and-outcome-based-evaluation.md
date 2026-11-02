@@ -11,16 +11,12 @@ Lei Wang; Jianxun Lian; Yi Huang; Yanqi Dai; Haoxuan Li; Xu Chen; Xing Xie; Ji-R
 
 **2025 · Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL)** · [Paper](https://doi.org/10.18653/v1/2025.naacl-long.323) · [arXiv](https://arxiv.org/abs/2412.05631)
 
-Source: sections/05\_evaluation.tex / Scoring Protocols / Human and outcome-based evaluation
-
 <a id="chuang2025debate"></a>
 ## DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents
 
 Yun-Shiuan Chuang; Ruixuan Tu; Chengtao Dai; You Li; Smit Vasani; Binwei Yao; Michael Henry Tessler; Sijia Yang; Dhavan Shah; Robert Hawkins; Junjie Hu; Timothy T. Rogers
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2510.25110)
-
-Source: sections/05\_evaluation.tex / Scoring Protocols / Human and outcome-based evaluation
 
 <a id="zhang2025roleplot"></a>
 ## RolePlot: A Systematic Framework for Evaluating and Enhancing the Plot-Progression Capabilities of Role-Playing Agents
@@ -29,13 +25,9 @@ Pinyi Zhang; Siyu An; Lingfeng Qiao; Yifei Yu; Jingyang Chen; Jie Wang; Di Yin; 
 
 **2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.603)
 
-Source: sections/05\_evaluation.tex / Scoring Protocols / Human and outcome-based evaluation
-
 <a id="wang2023incharacter"></a>
 ## InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews
 
 Xintao Wang; Yunze Xiao; Jen-tse Huang; Siyu Yuan; Rui Xu; Haoran Guo; Quan Tu; Yaying Fei; Ziang Leng; Wei Wang; Jiangjie Chen; Cheng Li; Yanghua Xiao
 
 **2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.102) · [arXiv](https://arxiv.org/abs/2310.17976)
-
-Source: sections/05\_evaluation.tex / Scoring Protocols / Human and outcome-based evaluation

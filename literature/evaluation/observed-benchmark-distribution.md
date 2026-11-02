@@ -11,9 +11,7 @@ Feiteng Fang; Dingwei Chen; Xiang Huang; Ting-En Lin; Yuchuan Wu; Xiong Liu; Xin
 
 **2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.710) · [Code](https://github.com/calubkk/AAM) · [arXiv](https://arxiv.org/abs/2505.23923)
 
-Benchmark in the survey table: Charm
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: Charm
 
 <a id="chen2026actormind"></a>
 ## ActorMind: Emulating Human Actor Reasoning for Speech Role-Playing
@@ -22,9 +20,7 @@ Xi Chen; Wei Xue; Yike Guo
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1718) · [arXiv](https://arxiv.org/abs/2604.11103)
 
-Benchmark in the survey table: ActorMindBench
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: ActorMindBench
 
 <a id="xu2026adamarp"></a>
 ## AdaMARP: An Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing
@@ -33,9 +29,7 @@ Zhenhua Xu; Dongsheng Chen; Shuo Wang; Jian Li; Chengjie Wang; Meng Han; Yabiao 
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
 
-Benchmark in the survey table: AdaptiveBench
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: AdaptiveBench
 
 <a id="song2026arcane"></a>
 ## ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?
@@ -44,9 +38,7 @@ Woojung Song; Nalim Kim; Sangjun Song; Chaewon Heo; Jongwon Lim; Yohan Jo
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2606.05553)
 
-Benchmark in the survey table: ARCANE
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: ARCANE
 
 <a id="peng2026bookmarks"></a>
 ## BOOKMARKS: Efficient Active Storyline Memory for Role-playing
@@ -55,9 +47,7 @@ Letian Peng; Ziche Liu; Yiming Huang; Longfei Yun; Kun Zhou; Yupeng Hou; Jingbo 
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2605.14169)
 
-Benchmark in the survey table: Fine-grained Fandom (+2)
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: Fine-grained Fandom (+2)
 
 <a id="fu2026character"></a>
 ## Character Beyond Speech: Leveraging Role-Playing Evaluation in Audio Large Language Models via Reinforcement Learning
@@ -66,9 +56,7 @@ Dongjie Fu; Fangming Feng; Xize Cheng; Linjun Li; Zhou Zhao; Tao Jin
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2604.13804)
 
-Benchmark in the survey table: RoleChat
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RoleChat
 
 <a id="peng2026deriving"></a>
 ## Deriving Character Logic from Storyline as Codified Decision Trees
@@ -77,9 +65,7 @@ Letian Peng; Kun Zhou; Longfei Yun; Yupeng Hou; Jingbo Shang
 
 **2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.568) · [arXiv](https://arxiv.org/abs/2601.10080)
 
-Benchmark in the survey table: Fine-grained Fandom (+1)
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: Fine-grained Fandom (+1)
 
 <a id="zhang2026dynsess"></a>
 ## DynSess: Dynamic Session-Level Evaluation and Optimization Framework for Role-Playing Agents
@@ -88,9 +74,7 @@ Rongsheng Zhang; Jiji Tang; Junnan Ren; Zuyi Bao; Weijie Chen; Ruofan Hu; Zhou Z
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2605.29256)
 
-Benchmark in the survey table: DynSess data (+1)
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: DynSess data (+1)
 
 <a id="wang2026memory"></a>
 ## Memory-Driven Role-Playing: Evaluation and Enhancement of Persona Knowledge Utilization in LLMs
@@ -99,9 +83,7 @@ Kai Wang; Haoyang You; Yang Zhang; Zhongjie Wang
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1175) · [arXiv](https://arxiv.org/abs/2603.19313)
 
-Benchmark in the survey table: MRBench
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: MRBench
 
 <a id="wang2026merry"></a>
 ## MERRY: Semantically Decoupled Evaluation of Multimodal Emotional and Role Consistencies of Role-Playing Agents
@@ -110,9 +92,7 @@ Zhenyu Wang; Xiaofen Xing; Yirong Chen; Xiangmin Xu
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2602.21941)
 
-Benchmark in the survey table: MERRY
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: MERRY
 
 <a id="zhang2026omnicharacter"></a>
 ## OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents
@@ -121,9 +101,7 @@ Haonan Zhang; Pengpeng Zeng; Ji Zhang; Jingkuan Song; Niculae Sebe; Hengtao Shen
 
 **2026 · IEEE Transactions on Pattern Analysis and Machine Intelligence** · [Paper](https://doi.org/10.1109/tpami.2026.3690447) · [Code](https://github.com/zchoi/OmniCharacter-plus)
 
-Benchmark in the survey table: OmniCharacter++
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: OmniCharacter++
 
 <a id="shi2026personaarena"></a>
 ## PersonaArena: Dynamic Simulation for Evaluating and Enhancing Persona-Level Role-Playing in Large Language Models
@@ -132,9 +110,7 @@ Wenlong Shi; Jianxun Lian; Mingqi Wu; Haiming Qin; Mingyang Zhou; Xing Xie; Naip
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.471) · [arXiv](https://arxiv.org/abs/2605.17044)
 
-Benchmark in the survey table: PersonaArena
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: PersonaArena
 
 <a id="cheng2025psymem"></a>
 ## PsyMem: Fine-grained psychological alignment and Explicit Memory Control for Advanced Role-Playing LLMs
@@ -143,9 +119,7 @@ Xilong Cheng; Yunxiao Qin; Yuting Tan; Zhengnan Li; Ye Wang; Hongjiang Xiao; Yua
 
 **2026 · Transactions of the Association for Computational Linguistics** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
 
-Benchmark in the survey table: DevalRP
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: DevalRP
 
 <a id="peng2026rethinking"></a>
 ## Rethinking Role-Playing Evaluation: Anonymous Benchmarking and a Systematic Study of Personality Effects
@@ -154,9 +128,7 @@ Ji-Lun Peng; Yun-Nung Chen
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2603.03915)
 
-Benchmark in the survey table: Role-Playing
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: Role-Playing
 
 <a id="wang2026reward"></a>
 ## Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing
@@ -165,9 +137,7 @@ Miao Wang; Yuling Shi; Yijiang Li; Yeheng Chen; Xiaodong Gu; Bin Li; Bo Gao; Jun
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2605.04733)
 
-Benchmark in the survey table: Immersive Role-Playing
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: Immersive Role-Playing
 
 <a id="lai2026rolecde"></a>
 ## RoleCDE:Benchmarking and Mitigating Role-Alignment Trade-offs in Role-Playing Agents
@@ -176,9 +146,7 @@ Huayi Lai; Shichao Song; Simin Niu; Hanyu Wang; Jiawei Yang; Zhouxing Wang; Zhiq
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
 
-Benchmark in the survey table: RoleCDE
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RoleCDE
 
 <a id="rosati2026rpa"></a>
 ## RPA-Check: A Multi-Stage Automated Framework for Evaluating Dynamic LLM-based Role-Playing Agents
@@ -187,9 +155,7 @@ Riccardo Rosati; Edoardo Colucci; Massimiliano Bolognini; Adriano Mancini; Paolo
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2604.11655)
 
-Benchmark in the survey table: LLM Court
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: LLM Court
 
 <a id="tang2026staying"></a>
 ## Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents
@@ -198,9 +164,7 @@ Xushuo Tang; Junhe Zhang; Zihan Yang; Yifu Tang; Sichao Li; Longbin Lai; Zhengyi
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2606.25632)
 
-Benchmark in the survey table: KBF-QA
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: KBF-QA
 
 <a id="yi2025too"></a>
 ## Too Good to be Bad: On the Failure of LLMs to Role-Play Villains
@@ -209,9 +173,7 @@ Zihao Yi; Qingxuan Jiang; Ruotian Ma; Xingyu Chen; Qu Yang; Mengru Wang; Fanghua
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.282) · [arXiv](https://arxiv.org/abs/2511.04962)
 
-Benchmark in the survey table: Moral RolePlay
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: Moral RolePlay
 
 <a id="shah2026too"></a>
 ## Too Nice to Tell the Truth: Quantifying Agreeableness-Driven Sycophancy in Role-Playing Language Models
@@ -220,9 +182,7 @@ Arya Shah; Deepali Mishra; Chaklam Silpasuwanchai
 
 **2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.1421) · [arXiv](https://arxiv.org/abs/2604.10733)
 
-Benchmark in the survey table: Sycophancy Benchmark
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: Sycophancy Benchmark
 
 <a id="tang2026customized"></a>
 ## Towards Customized Multimodal Role-Play
@@ -231,9 +191,7 @@ Chao Tang; Jianzong Wu; Qingyu Shi; Ye Tian; Aixi Zhang; Hao Jiang; Jiangning Zh
 
 **2026 · arXiv** · [Paper](https://arxiv.org/abs/2605.08129)
 
-Benchmark in the survey table: RoleScape-20 Benchmark
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RoleScape-20 Benchmark
 
 <a id="li2025understanding"></a>
 ## Understanding Generalization in Role-Playing Models via Information Theory
@@ -242,9 +200,7 @@ Yongqi Li; Hao Lang; Fei Huang; Tieyun Qian; Yongbin Li
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.87) · [arXiv](https://arxiv.org/abs/2512.17270)
 
-Benchmark in the survey table: RPGBench
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RPGBench
 
 <a id="li2025audiorole"></a>
 ## AudioRole: An Audio Dataset for Character Role-Playing in Large Language Models
@@ -253,9 +209,7 @@ Wenyu Li; Xiaoqi Jiao; Yi Chang; Guangyan Zhang; Yiwen Guo
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2509.23435)
 
-Benchmark in the survey table: AudioRole
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: AudioRole
 
 <a id="yu2024beyond"></a>
 ## BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model
@@ -264,9 +218,7 @@ Yeyong Yu; Runsheng Yu; Haojie Wei; Zhanqiu Zhang; Quan Qian
 
 **2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.586) · [Code](https://github.com/yuyouyu32/BeyondDialogue) · [arXiv](https://arxiv.org/abs/2408.10903)
 
-Benchmark in the survey table: BEYOND DIALOGUE
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: BEYOND DIALOGUE
 
 <a id="ngokpol2025beyond"></a>
 ## Beyond One World: Benchmarking Super Heros in Role-Playing Across Multiversal Contexts
@@ -275,9 +227,7 @@ Perapard Ngokpol; Kun Kerdthaisong; Pasin Buakhaw; Pitikorn Khlaisamniang; Supas
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2510.14351)
 
-Benchmark in the survey table: Beyond One World
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: Beyond One World
 
 <a id="wang2025beyond"></a>
 ## Beyond Profile: From Surface-Level Facts to Deep Persona Simulation in LLMs
@@ -286,9 +236,7 @@ Zixiao Wang; Duzhen Zhang; Ishita Agrawal; Shen Gao; Le Song; Xiuying Chen
 
 **2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1094) · [arXiv](https://arxiv.org/abs/2502.12988)
 
-Benchmark in the survey table: CharacterBot Evaluation
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: CharacterBot Evaluation
 
 <a id="zhou2025characterbench"></a>
 ## CharacterBench: Benchmarking Character Customization of Large Language Models
@@ -297,9 +245,7 @@ Jinfeng Zhou; Yongkang Huang; Bosi Wen; Guanqun Bi; Yuxuan Chen; Pei Ke; Zhuang 
 
 **2025 · Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
 
-Benchmark in the survey table: CharacterBench
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: CharacterBench
 
 <a id="wang2024characterbox"></a>
 ## CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds
@@ -308,9 +254,7 @@ Lei Wang; Jianxun Lian; Yi Huang; Yanqi Dai; Haoxuan Li; Xu Chen; Xing Xie; Ji-R
 
 **2025 · Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL)** · [Paper](https://doi.org/10.18653/v1/2025.naacl-long.323) · [arXiv](https://arxiv.org/abs/2412.05631)
 
-Benchmark in the survey table: CharacterBox
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: CharacterBox
 
 <a id="yin2025charactercraft"></a>
 ## CharacterCraft: Bridging the Literature-Reality Dialogue Gap for Practical Role-Playing Agents
@@ -319,9 +263,7 @@ Xuyan Yin; Xinran Yang; Zihao Li; Lixin Zou; Chenliang Li
 
 **2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.323)
 
-Benchmark in the survey table: CharacterCraft-Eval
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: CharacterCraft-Eval
 
 <a id="peng2025codifying"></a>
 ## Codifying Character Logic in Role-Playing
@@ -330,9 +272,7 @@ Letian Peng; Jingbo Shang
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2505.07705)
 
-Benchmark in the survey table: Fandom Benchmark
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: Fandom Benchmark
 
 <a id="wang2025coser"></a>
 ## CoSER: Coordinating LLM-Based Persona Simulation of Established Roles
@@ -341,9 +281,7 @@ Xintao Wang; Heng Wang; Yifei Zhang; Xinfeng Yuan; Rui Xu; Jen-tse Huang; Siyu Y
 
 **2025 · Proceedings of the 42nd International Conference on Machine Learning** · [Paper](https://arxiv.org/abs/2502.09082)
 
-Benchmark in the survey table: CoSER Test
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: CoSER Test
 
 <a id="ye2025cpo"></a>
 ## CPO: Addressing Reward Ambiguity in Role-playing Dialogue via Comparative Policy Optimization
@@ -352,9 +290,7 @@ Xinge Ye; Rui Wang; Yuchuan Wu; Victor Ma; Feiteng Fang; Fei Huang; Yongbin Li
 
 **2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.18) · [arXiv](https://arxiv.org/abs/2508.09074)
 
-Benchmark in the survey table: CharacterArena
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: CharacterArena
 
 <a id="chuang2025debate"></a>
 ## DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents
@@ -363,9 +299,7 @@ Yun-Shiuan Chuang; Ruixuan Tu; Chengtao Dai; You Li; Smit Vasani; Binwei Yao; Mi
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2510.25110)
 
-Benchmark in the survey table: DEBATE benchmark
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: DEBATE benchmark
 
 <a id="wu2025furina"></a>
 ## FURINA: A Fully Customizable Role-Playing Benchmark via Scalable Multi-Agent Collaboration Pipeline
@@ -374,9 +308,7 @@ Haotian Wu; Shufan Jiang; Chios Chen; Yiyang Feng; Hehai Lin; Heqing Zou; Yao Sh
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2510.06800)
 
-Benchmark in the survey table: FURINA-Bench
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: FURINA-Bench
 
 <a id="xu2025guess"></a>
 ## Guess What I am Thinking: A Benchmark for Inner Thought Reasoning of Role-Playing Language Agents
@@ -385,9 +317,7 @@ Rui Xu; MingYu Wang; XinTao Wang; Dakuan Lu; Xiaoyu Tan; Wei Chu; Yinghui Xu
 
 **2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.819) · [Code](https://github.com/airaer1998/RPA_Thought) · [arXiv](https://arxiv.org/abs/2503.08193)
 
-Benchmark in the survey table: ROLETHINK Gold Set (+1)
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: ROLETHINK Gold Set (+1)
 
 <a id="sun2024identity"></a>
 ## Identity-Driven Hierarchical Role-Playing Agents
@@ -396,9 +326,7 @@ Libo Sun; Siyuan Wang; Xuanjing Huang; Zhongyu Wei
 
 **2025 · Lecture Notes in Computer Science** · [Paper](https://doi.org/10.1007/978-981-95-3346-6_31) · [arXiv](https://arxiv.org/abs/2407.19412)
 
-Benchmark in the survey table: Identity-Eval (Scale (+1)
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: Identity-Eval (Scale (+1)
 
 <a id="dai2024mmrole"></a>
 ## MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents
@@ -407,9 +335,7 @@ Yanqi Dai; Huanran Hu; Lei Wang; Shengjie Jin; Xu Chen; Zhiwu Lu
 
 **2025 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2408.04203) · [Code](https://github.com/YanqiDai/MMRole)
 
-Benchmark in the survey table: MMRole-Eval
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: MMRole-Eval
 
 <a id="chen2025moom"></a>
 ## MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues
@@ -418,9 +344,7 @@ Weishu Chen; Jinyi Tang; Zhouhui Hou; Shihao Han; Mingjie Zhan; Zhiyuan Huang; D
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2509.11860)
 
-Benchmark in the survey table: ZH-4O Dataset
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: ZH-4O Dataset
 
 <a id="costa2025moral"></a>
 ## Moral Susceptibility and Robustness under Persona Role-Play in Large Language Models
@@ -429,9 +353,7 @@ Davi Bastos Costa; Felippe Alves; Renato Vicente
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2511.08565)
 
-Benchmark in the survey table: Moral Robustness and
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: Moral Robustness and
 
 <a id="zhang2025omnicharacter"></a>
 ## OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction
@@ -440,9 +362,7 @@ Haonan Zhang; Run Luo; Xiong Liu; Yuchuan Wu; Ting-En Lin; Pengpeng Zeng; Qiang 
 
 **2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.1276) · [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OmniCharacter) · [arXiv](https://arxiv.org/abs/2505.20277)
 
-Benchmark in the survey table: OmniCharacter-10K data
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: OmniCharacter-10K data
 
 <a id="wang2025opencharacter"></a>
 ## OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas
@@ -451,9 +371,7 @@ Xiaoyang Wang; Hongming Zhang; Tao Ge; Wenhao Yu; Dian Yu; Dong Yu
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2501.15427)
 
-Benchmark in the survey table: PersonaGym-Light
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: PersonaGym-Light
 
 <a id="yang2025psyplay"></a>
 ## PsyPlay: Personality-Infused Role-Playing Conversational Agents
@@ -462,9 +380,7 @@ Tao Yang; Yuhua Zhu; Xiaojun Quan; Cong Liu; Qifan Wang
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2502.03821)
 
-Benchmark in the survey table: PsyPlay-Bench-Test (+1)
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: PsyPlay-Bench-Test (+1)
 
 <a id="rupprecht2025rags"></a>
 ## RAGs to Riches: RAG-like Few-shot Learning for Large Language Model Role-playing
@@ -473,9 +389,7 @@ Timothy Rupprecht; Enfu Nan; Arash Akbari; Arman Akbari; Lei Lu; Priyanka Maan; 
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2509.12168)
 
-Benchmark in the survey table: Role-Playing Evaluation
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: Role-Playing Evaluation
 
 <a id="zhang2024revealing"></a>
 ## Revealing and Mitigating the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing
@@ -484,9 +398,7 @@ Wenyuan Zhang; Shuaiyi Nie; Jiawei Sheng; Zefeng Zhang; Xinghua Zhang; Yongquan 
 
 **2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1689) · [arXiv](https://arxiv.org/abs/2409.11726)
 
-Benchmark in the survey table: RoleKE-Bench
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: RoleKE-Bench
 
 <a id="xiang2025rmtbench"></a>
 ## RMTBench: Benchmarking LLMs Through Multi-Turn User-Centric Role-Playing
@@ -495,9 +407,7 @@ Hao Xiang; Tianyi Tang; Yang Su; Bowen Yu; An Yang; Fei Huang; Yichang Zhang; Ya
 
 **2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.730) · [arXiv](https://arxiv.org/abs/2507.20352)
 
-Benchmark in the survey table: RMTBench
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RMTBench
 
 <a id="boudouri2025role"></a>
 ## Role-Playing Evaluation for Large Language Models
@@ -506,9 +416,7 @@ Yassine El Boudouri; Walter Nuninger; Julian Alvarez; Yvan Peter
 
 **2025 · Lecture Notes in Networks and Systems** · [Paper](https://doi.org/10.1007/978-3-032-05070-0_11) · [Code](https://github.com/yelboudouri/RPEval) · [arXiv](https://arxiv.org/abs/2505.13157)
 
-Benchmark in the survey table: RPEval
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RPEval
 
 <a id="lu2025rolemrc"></a>
 ## RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following
@@ -517,9 +425,7 @@ Junru Lu; Jiazheng Li; Guodong Shen; Lin Gui; Siyu An; Yulan He; Di Yin; Xing Su
 
 **2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1082) · [Code](https://github.com/LuJunru/RoleMRC) · [arXiv](https://arxiv.org/abs/2502.11387)
 
-Benchmark in the survey table: RoleMRC
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RoleMRC
 
 <a id="zhang2025roleplot"></a>
 ## RolePlot: A Systematic Framework for Evaluating and Enhancing the Plot-Progression Capabilities of Role-Playing Agents
@@ -528,9 +434,7 @@ Pinyi Zhang; Siyu An; Lingfeng Qiao; Yifei Yu; Jingyang Chen; Jie Wang; Di Yin; 
 
 **2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.603)
 
-Benchmark in the survey table: RolePlot Evaluation
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RolePlot Evaluation
 
 <a id="ding2025rolermbench"></a>
 ## RoleRMBench &amp; RoleRM: Towards Reward Modeling for Profile-Based Role Play in Dialogue Systems
@@ -539,9 +443,7 @@ Hang Ding; Qiming Feng; Dongqi Liu; Qi Zhao; Tao Yao; Shuo Wang; Dongsheng Chen;
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2512.10575)
 
-Benchmark in the survey table: RoleRMBench
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RoleRMBench
 
 <a id="ye2025rvbench"></a>
 ## RVBench: Role values benchmark for role-playing LLMs
@@ -550,9 +452,7 @@ Wang, Ye; Li, Tong; Li, Meixuan; Cheng, Ziyue; Wang, Ge; Kang, Hanyue; Deng, Yal
 
 **2025 · Computers in Human Behavior: Artificial Humans** · [Paper](https://doi.org/10.1016/j.chbah.2025.100184)
 
-Benchmark in the survey table: RVBench
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: RVBench
 
 <a id="kong2024sharp"></a>
 ## SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs
@@ -561,9 +461,7 @@ Chuyi Kong; Ziyang Luo; Hongzhan Lin; Zhiyuan Fan; Yaxin Fan; Yuxi Sun; Jing Ma
 
 **2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.47) · [arXiv](https://arxiv.org/abs/2411.07965)
 
-Benchmark in the survey table: SHARP
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: SHARP
 
 <a id="liu2024tell"></a>
 ## Tell Me What You Don't Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing
@@ -572,9 +470,7 @@ Wenhao Liu; Siyu An; Junru Lu; Muling Wu; Tianlong Li; Xiaohua Wang; Changze lv;
 
 **2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.311) · [arXiv](https://arxiv.org/abs/2409.16913)
 
-Benchmark in the survey table: RoleRef
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: RoleRef
 
 <a id="zhang2025video2roleplay"></a>
 ## Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided Role-playing Agents
@@ -583,9 +479,7 @@ Xueqiao Zhang; Chao Zhang; Jingtao Xu; Yifan Zhu; Xin Shi; Yi Yang; Yawei Luo
 
 **2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
 
-Benchmark in the survey table: Video2Roleplay data
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: Video2Roleplay data
 
 <a id="wu2025voxrole"></a>
 ## VoxRole: A Comprehensive Benchmark for Evaluating Speech-Based Role-Playing Agents
@@ -594,9 +488,7 @@ Weihao Wu; Liang Cao; Xinyu Wu; Zhiwei Lin; Rui Niu; Jingbei Li; Zhiyong Wu
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2509.03940)
 
-Benchmark in the survey table: VoxRole
-
-Source: tables/table04\_benchmark\_comparison\_part2.tex
+Benchmark: VoxRole
 
 <a id="chen2024multi"></a>
 ## A Multi-Task Role-Playing Agent Capable of Imitating Character Linguistic Styles
@@ -605,9 +497,7 @@ Siyuan Chen; Qingyi Si; Chenxu Yang; Yunzhi Liang; Zheng Lin; Huan Liu; Weiping 
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2411.02457)
 
-Benchmark in the survey table: MRstyle
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: MRstyle
 
 <a id="bai2024baijia"></a>
 ## BaiJia: A Large-Scale Role-Playing Agent Corpus of Chinese Historical Characters
@@ -616,9 +506,7 @@ Ting Bai; Jiazheng Kang; Jiayang Fan
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2412.20024)
 
-Benchmark in the survey table: BaiJia Evaluation
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: BaiJia Evaluation
 
 <a id="xu2024character"></a>
 ## Character is Destiny: Can Role-Playing Language Agents Make Persona-Driven Decisions?
@@ -627,9 +515,7 @@ Rui Xu; Xintao Wang; Jiangjie Chen; Siyu Yuan; Xinfeng Yuan; Jiaqing Liang; Zulo
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2404.12138)
 
-Benchmark in the survey table: LIFECHOICE
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: LIFECHOICE
 
 <a id="tu2024charactereval"></a>
 ## CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation
@@ -638,9 +524,7 @@ Quan Tu; Shilong Fan; Zihang Tian; Rui Yan
 
 **2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.638) · [Code](https://github.com/morecry/CharacterEval) · [arXiv](https://arxiv.org/abs/2401.01275)
 
-Benchmark in the survey table: CharacterEval
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: CharacterEval
 
 <a id="tang2024enhancing"></a>
 ## Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement
@@ -649,9 +533,7 @@ Yihong Tang; Jiao Ou; Che Liu; Fuzheng Zhang; Di Zhang; Kun Gai
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2402.10618)
 
-Benchmark in the survey table: MORTISE Aggressive
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: MORTISE Aggressive
 
 <a id="tang2024erabal"></a>
 ## ERABAL: Enhancing Role-Playing Agents through Boundary-Aware Learning
@@ -660,9 +542,7 @@ Yihong Tang; Jiao Ou; Che Liu; Fuzheng Zhang; Di Zhang; Kun Gai
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2409.14710)
 
-Benchmark in the survey table: ERABAL
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: ERABAL
 
 <a id="yuan2024evaluating"></a>
 ## Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works
@@ -671,9 +551,7 @@ Xinfeng Yuan; Siyu Yuan; Yuhan Cui; Tianhe Lin; Xintao Wang; Rui Xu; Jiangjie Ch
 
 **2024 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.456) · [Code](https://github.com/Joanna0123/character_profiling) · [arXiv](https://arxiv.org/abs/2404.12726)
 
-Benchmark in the survey table: CROSS (Profiling (+1)
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: CROSS (Profiling (+1)
 
 <a id="ng2024how"></a>
 ## How Well Can LLMs Echo Us? Evaluating AI Chatbots' Role-Play Ability with ECHO
@@ -682,9 +560,7 @@ Man Tik Ng; Hui Tung Tse; Jen-tse Huang; Jingjing Li; Wenxuan Wang; Michael R. L
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2404.13957) · [Code](https://github.com/CUHK-ARISE/ECHO)
 
-Benchmark in the survey table: ECHO
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: ECHO
 
 <a id="wang2023incharacter"></a>
 ## InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews
@@ -693,9 +569,7 @@ Xintao Wang; Yunze Xiao; Jen-tse Huang; Siyu Yuan; Rui Xu; Haoran Guo; Quan Tu; 
 
 **2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.102) · [arXiv](https://arxiv.org/abs/2310.17976)
 
-Benchmark in the survey table: InCharacter Benchmark
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: InCharacter Benchmark
 
 <a id="lu2024large"></a>
 ## Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment
@@ -704,9 +578,7 @@ Keming Lu; Bowen Yu; Chang Zhou; Jingren Zhou
 
 **2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.423) · [Code](https://github.com/OFA-Sys/Ditto) · [arXiv](https://arxiv.org/abs/2401.12474)
 
-Benchmark in the survey table: DITTO's role-play
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: DITTO's role-play
 
 <a id="xu2024mindecho"></a>
 ## MINDECHO: Role-Playing Language Agents for Key Opinion Leaders
@@ -715,9 +587,7 @@ Rui Xu; Dakuan Lu; Xiaoyu Tan; Xintao Wang; Siyu Yuan; Jiangjie Chen; Wei Chu; Y
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2407.05305)
 
-Benchmark in the survey table: MINDECHO Basic (+1)
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: MINDECHO Basic (+1)
 
 <a id="sadeq2024mitigating"></a>
 ## Mitigating Hallucination in Fictional Character Role-Play
@@ -726,9 +596,7 @@ Nafis Sadeq; Zhouhang Xie; Byungkyu Kang; Prarit Lamba; Xiang Gao; Julian McAule
 
 **2024 · Findings of the Association for Computational Linguistics: EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.846) · [Code](https://github.com/NafisSadeq/rolefact.git) · [arXiv](https://arxiv.org/abs/2406.17260)
 
-Benchmark in the survey table: SGR Dataset
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: SGR Dataset
 
 <a id="gusev2024pingpong"></a>
 ## PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation
@@ -737,9 +605,7 @@ Ilya Gusev
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2409.06820)
 
-Benchmark in the survey table: PingPong v2
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: PingPong v2
 
 <a id="liu2024role"></a>
 ## Role-playing Prompt Framework: Generation and Evaluation
@@ -748,9 +614,7 @@ Xun Liu; Zhengwei Ni
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2406.00627)
 
-Benchmark in the survey table: Role-playing
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: Role-playing
 
 <a id="liu2024roleagent"></a>
 ## RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts
@@ -759,9 +623,7 @@ Jiaheng Liu; Zehao Ni; Haoran Que; Tao Sun; Noah Wang; Jian Yang; Jiakai Wang; H
 
 **2024 · Advances in Neural Information Processing Systems** · [Paper](https://doi.org/10.52202/079017-1563)
 
-Benchmark in the survey table: RoleAgentBench
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: RoleAgentBench
 
 <a id="wang2023rolellm"></a>
 ## RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
@@ -770,9 +632,7 @@ Zekun Moore Wang; Zhongyuan Peng; Haoran Que; Jiaheng Liu; Wangchunshu Zhou; Yuh
 
 **2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
 
-Benchmark in the survey table: RoleBench
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: RoleBench
 
 <a id="chen2024socialbench"></a>
 ## SocialBench: Sociality Evaluation of Role-Playing Conversational Agents
@@ -781,9 +641,7 @@ Hongzhan Chen; Hehong Chen; Ming Yan; Wenshen Xu; Xing Gao; Weizhou Shen; Xiaoju
 
 **2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.125) · [Code](https://github.com/X-PLUG/SocialBench) · [arXiv](https://arxiv.org/abs/2403.13679)
 
-Benchmark in the survey table: SocialBench
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: SocialBench
 
 <a id="zhang2024thinking"></a>
 ## Thinking Before Speaking: A Role-playing Model with Mindset
@@ -792,9 +650,7 @@ Baohua Zhang; Yongyi Huang; Wenyao Cui; Huaping Zhang
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2409.13752)
 
-Benchmark in the survey table: Thinking Before Speaking
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: Thinking Before Speaking
 
 <a id="ahn2024timechara"></a>
 ## TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models
@@ -803,9 +659,7 @@ Jaewoo Ahn; Taehyun Lee; Junyoung Lim; Jin-Hwa Kim; Sangdoo Yun; Hwaran Lee; Gun
 
 **2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.197) · [arXiv](https://arxiv.org/abs/2405.18027)
 
-Benchmark in the survey table: TIMECHARA
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: TIMECHARA
 
 <a id="li2023chatharuhi"></a>
 ## ChatHaruhi: Reviving Anime Character in Reality via Large Language Model
@@ -814,9 +668,7 @@ Cheng Li; Ziang Leng; Chenxi Yan; Junyi Shen; Hao Wang; Weishi MI; Yaying Fei; X
 
 **2023 · arXiv** · [Paper](https://arxiv.org/abs/2308.09597) · [Code](https://github.com/LC1332/Chat-Haruhi-Suzumiya)
 
-Benchmark in the survey table: ChatHaruhi Story-based
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: ChatHaruhi Story-based
 
 <a id="shen2023roleeval"></a>
 ## RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models
@@ -825,6 +677,4 @@ Tianhao Shen; Sun Li; Quan Tu; Deyi Xiong
 
 **2023 · arXiv** · [Paper](https://arxiv.org/abs/2312.16132)
 
-Benchmark in the survey table: RoleEval-Global (+1)
-
-Source: tables/table04\_benchmark\_comparison\_part1.tex
+Benchmark: RoleEval-Global (+1)

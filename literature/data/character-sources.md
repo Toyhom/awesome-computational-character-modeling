@@ -11,16 +11,12 @@ Wenlong Shi; Jianxun Lian; Mingqi Wu; Haiming Qin; Mingyang Zhou; Xing Xie; Naip
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.471) · [arXiv](https://arxiv.org/abs/2605.17044)
 
-Source: sections/03\_data\_foundations.tex / Character Sources
-
 <a id="lai2026rolecde"></a>
 ## RoleCDE:Benchmarking and Mitigating Role-Alignment Trade-offs in Role-Playing Agents
 
 Huayi Lai; Shichao Song; Simin Niu; Hanyu Wang; Jiawei Yang; Zhouxing Wang; Zhiqiang Yin; Xun Liang
 
 **2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
-
-Source: sections/03\_data\_foundations.tex / Character Sources
 
 <a id="li2025audiorole"></a>
 ## AudioRole: An Audio Dataset for Character Role-Playing in Large Language Models
@@ -29,16 +25,12 @@ Wenyu Li; Xiaoqi Jiao; Yi Chang; Guangyan Zhang; Yiwen Guo
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2509.23435)
 
-Source: sections/03\_data\_foundations.tex / Character Sources
-
 <a id="yu2024beyond"></a>
 ## BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model
 
 Yeyong Yu; Runsheng Yu; Haojie Wei; Zhanqiu Zhang; Quan Qian
 
 **2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.586) · [Code](https://github.com/yuyouyu32/BeyondDialogue) · [arXiv](https://arxiv.org/abs/2408.10903)
-
-Source: sections/03\_data\_foundations.tex / Character Sources
 
 <a id="wang2025coser"></a>
 ## CoSER: Coordinating LLM-Based Persona Simulation of Established Roles
@@ -47,16 +39,12 @@ Xintao Wang; Heng Wang; Yifei Zhang; Xinfeng Yuan; Rui Xu; Jen-tse Huang; Siyu Y
 
 **2025 · Proceedings of the 42nd International Conference on Machine Learning** · [Paper](https://arxiv.org/abs/2502.09082)
 
-Source: sections/03\_data\_foundations.tex / Character Sources
-
 <a id="wang2025opencharacter"></a>
 ## OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas
 
 Xiaoyang Wang; Hongming Zhang; Tao Ge; Wenhao Yu; Dian Yu; Dong Yu
 
 **2025 · arXiv** · [Paper](https://arxiv.org/abs/2501.15427)
-
-Source: sections/03\_data\_foundations.tex / Character Sources
 
 <a id="bai2024baijia"></a>
 ## BaiJia: A Large-Scale Role-Playing Agent Corpus of Chinese Historical Characters
@@ -65,16 +53,12 @@ Ting Bai; Jiazheng Kang; Jiayang Fan
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2412.20024)
 
-Source: sections/03\_data\_foundations.tex / Character Sources
-
 <a id="ng2024how"></a>
 ## How Well Can LLMs Echo Us? Evaluating AI Chatbots' Role-Play Ability with ECHO
 
 Man Tik Ng; Hui Tung Tse; Jen-tse Huang; Jingjing Li; Wenxuan Wang; Michael R. Lyu
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2404.13957) · [Code](https://github.com/CUHK-ARISE/ECHO)
-
-Source: sections/03\_data\_foundations.tex / Character Sources
 
 <a id="wang2023rolellm"></a>
 ## RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
@@ -83,13 +67,9 @@ Zekun Moore Wang; Zhongyuan Peng; Haoran Que; Jiaheng Liu; Wangchunshu Zhou; Yuh
 
 **2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
 
-Source: sections/03\_data\_foundations.tex / Character Sources
-
 <a id="zhou2023characterglm"></a>
 ## CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models
 
 Jinfeng Zhou; Zhuang Chen; Dazhen Wan; Bosi Wen; Yi Song; Jifan Yu; Yongkang Huang; Libiao Peng; Jiaming Yang; Xiyao Xiao; Sahand Sabour; Xiaohan Zhang; Wenjing Hou; Yijia Zhang; Yuxiao Dong; Jie Tang; Minlie Huang
 
 **2023 · Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-industry.107) · [arXiv](https://arxiv.org/abs/2311.16832)
-
-Source: sections/03\_data\_foundations.tex / Character Sources
