@@ -1,0 +1,318 @@
+{
+  "name": "Awesome Computational Character Modeling",
+  "slug": "awesome-computational-character-modeling",
+  "survey_title": "Computational Character Modeling: A Survey of Role-Playing Agents from a Behavioral Science Perspective",
+  "authors": [
+    "Yihong Tang",
+    "Kehai Chen",
+    "Min Zhang"
+  ],
+  "corpus_cutoff": "2026-07-16",
+  "created": "2026-11-02",
+  "groups": [
+    {
+      "id": "methods",
+      "title": "Behavioral-Science-Informed Role Modeling",
+      "title_zh": "行为科学视角下的角色建模",
+      "section": "III",
+      "children": [
+        {
+          "id": "methods-behavioral-imitation",
+          "title": "Role Modeling through Behavioral Imitation",
+          "title_zh": "行为模仿",
+          "section": "III.A",
+          "file": "catalog/methods/behavioral-imitation.csv",
+          "description": ""
+        },
+        {
+          "id": "methods-internal-cognitive-states",
+          "title": "Role Modeling through Internal Cognitive States",
+          "title_zh": "内部认知状态",
+          "section": "III.B",
+          "file": "catalog/methods/internal-cognitive-states.csv",
+          "description": ""
+        },
+        {
+          "id": "methods-experience-and-explicit-rules",
+          "title": "Role Modeling through Experience and Explicit Rules",
+          "title_zh": "经验与显式规则",
+          "section": "III.C",
+          "file": "catalog/methods/experience-and-explicit-rules.csv",
+          "description": ""
+        },
+        {
+          "id": "methods-situated-interaction",
+          "title": "Role Modeling through Situated Interaction",
+          "title_zh": "情境互动",
+          "section": "III.D",
+          "file": "catalog/methods/situated-interaction.csv",
+          "description": ""
+        },
+        {
+          "id": "methods-personality-and-value-traits",
+          "title": "Role Modeling through Personality and Value Traits",
+          "title_zh": "人格与价值特质",
+          "section": "III.E",
+          "file": "catalog/methods/personality-and-value-traits.csv",
+          "description": ""
+        },
+        {
+          "id": "methods-comparative-synthesis",
+          "title": "Comparative Synthesis",
+          "title_zh": "比较与综合",
+          "section": "III.F",
+          "file": "catalog/methods/comparative-synthesis.csv",
+          "description": "This subsection compares the five modeling categories above; the manuscript introduces no additional citations here."
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "title": "Character Information and Data Foundations",
+      "title_zh": "角色信息与数据基础",
+      "section": "IV",
+      "children": [
+        {
+          "id": "data-character-sources",
+          "title": "Character Sources",
+          "title_zh": "角色来源",
+          "section": "IV.A",
+          "file": "catalog/data/character-sources.csv",
+          "description": ""
+        },
+        {
+          "id": "data-role-information-and-data-modalities",
+          "title": "Role Information and Data Modalities",
+          "title_zh": "角色信息与数据模态",
+          "section": "IV.B",
+          "file": "catalog/data/role-information-and-data-modalities.csv",
+          "description": ""
+        },
+        {
+          "id": "data-data-construction-and-quality-control",
+          "title": "Data Construction and Quality Control",
+          "title_zh": "数据构建与质量控制",
+          "section": "IV.C",
+          "file": "catalog/data/data-construction-and-quality-control.csv",
+          "description": ""
+        },
+        {
+          "id": "data-scale-and-coverage",
+          "title": "Scale and Coverage",
+          "title_zh": "规模与覆盖",
+          "section": "IV.D",
+          "file": "catalog/data/scale-and-coverage.csv",
+          "description": ""
+        },
+        {
+          "id": "data-data-affordances-and-modeling-limits",
+          "title": "Data Affordances and Modeling Limits",
+          "title_zh": "数据支持的能力与建模局限",
+          "section": "IV.E",
+          "file": "catalog/data/data-affordances-and-modeling-limits.csv",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "evaluation",
+      "title": "Evaluation of Computational Characters",
+      "title_zh": "计算角色评测",
+      "section": "V",
+      "children": [
+        {
+          "id": "evaluation-targets",
+          "title": "Evaluation Targets",
+          "title_zh": "评测目标",
+          "section": "V.A",
+          "children": [
+            {
+              "id": "evaluation-targets-1",
+              "title": "Knowledge and expression",
+              "title_zh": "知识与表达",
+              "section": "",
+              "children": [
+                {
+                  "id": "evaluation-e1",
+                  "title": "E1: character identity, knowledge, and information boundaries",
+                  "title_zh": "角色身份、知识与信息边界",
+                  "section": "V.A / E1",
+                  "file": "catalog/evaluation/e1.csv",
+                  "description": ""
+                },
+                {
+                  "id": "evaluation-e2",
+                  "title": "E2: linguistic style, voice, and multimodal expression",
+                  "title_zh": "语言风格、声音与多模态表达",
+                  "section": "V.A / E2",
+                  "file": "catalog/evaluation/e2.csv",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "id": "evaluation-targets-2",
+              "title": "Dispositions and internal processes",
+              "title_zh": "倾向与内部过程",
+              "section": "",
+              "children": [
+                {
+                  "id": "evaluation-e3",
+                  "title": "E3: personality, values, and emotion",
+                  "title_zh": "人格、价值观与情绪",
+                  "section": "V.A / E3",
+                  "file": "catalog/evaluation/e3.csv",
+                  "description": ""
+                },
+                {
+                  "id": "evaluation-e4",
+                  "title": "E4: reasoning, intention, and internal state",
+                  "title_zh": "推理、意图与内部状态",
+                  "section": "V.A / E4",
+                  "file": "catalog/evaluation/e4.csv",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "id": "evaluation-targets-3",
+              "title": "Temporal, social, and strategic behavior",
+              "title_zh": "时间、社会与策略行为",
+              "section": "",
+              "children": [
+                {
+                  "id": "evaluation-e5",
+                  "title": "E5: memory, longitudinal consistency, and character change",
+                  "title_zh": "记忆、长期一致性与角色变化",
+                  "section": "V.A / E5",
+                  "file": "catalog/evaluation/e5.csv",
+                  "description": ""
+                },
+                {
+                  "id": "evaluation-e6",
+                  "title": "E6: relationships, multi-character behavior, and social interaction",
+                  "title_zh": "关系、多角色行为与社会互动",
+                  "section": "V.A / E6",
+                  "file": "catalog/evaluation/e6.csv",
+                  "description": ""
+                },
+                {
+                  "id": "evaluation-e7",
+                  "title": "E7: situated action, strategy, and plot progression",
+                  "title_zh": "情境行动、策略与剧情推进",
+                  "section": "V.A / E7",
+                  "file": "catalog/evaluation/e7.csv",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "id": "evaluation-targets-4",
+              "title": "Safety and user experience",
+              "title_zh": "安全与用户体验",
+              "section": "",
+              "children": [
+                {
+                  "id": "evaluation-e8",
+                  "title": "E8: safety, refusal, and role boundaries",
+                  "title_zh": "安全、拒答与角色边界",
+                  "section": "V.A / E8",
+                  "file": "catalog/evaluation/e8.csv",
+                  "description": ""
+                },
+                {
+                  "id": "evaluation-e9",
+                  "title": "E9: naturalness, credibility, immersion, and user experience",
+                  "title_zh": "自然度、可信度、沉浸感与用户体验",
+                  "section": "V.A / E9",
+                  "file": "catalog/evaluation/e9.csv",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "evaluation-test-settings",
+          "title": "Test Settings",
+          "title_zh": "测试设置",
+          "section": "V.B",
+          "children": [
+            {
+              "id": "evaluation-character-source",
+              "title": "Character source",
+              "title_zh": "角色来源",
+              "section": "V.B",
+              "file": "catalog/evaluation/character-source.csv",
+              "description": ""
+            },
+            {
+              "id": "evaluation-time-and-participants",
+              "title": "Time and participants",
+              "title_zh": "时间与参与者",
+              "section": "V.B",
+              "file": "catalog/evaluation/time-and-participants.csv",
+              "description": ""
+            },
+            {
+              "id": "evaluation-scenario-and-response-format",
+              "title": "Scenario and response format",
+              "title_zh": "情境与回答形式",
+              "section": "V.B",
+              "file": "catalog/evaluation/scenario-and-response-format.csv",
+              "description": ""
+            },
+            {
+              "id": "evaluation-observed-benchmark-distribution",
+              "title": "Observed benchmark distribution",
+              "title_zh": "现有基准分布",
+              "section": "V.B",
+              "file": "catalog/evaluation/observed-benchmark-distribution.csv",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "evaluation-scoring-protocols",
+          "title": "Scoring Protocols",
+          "title_zh": "评分协议",
+          "section": "V.C",
+          "children": [
+            {
+              "id": "evaluation-rule-based-and-learned-scores",
+              "title": "Rule-based and learned scores",
+              "title_zh": "规则评分与学习式评分",
+              "section": "V.C",
+              "file": "catalog/evaluation/rule-based-and-learned-scores.csv",
+              "description": ""
+            },
+            {
+              "id": "evaluation-llm-judges",
+              "title": "LLM judges",
+              "title_zh": "大模型裁判",
+              "section": "V.C",
+              "file": "catalog/evaluation/llm-judges.csv",
+              "description": ""
+            },
+            {
+              "id": "evaluation-human-and-outcome-based-evaluation",
+              "title": "Human and outcome-based evaluation",
+              "title_zh": "人工与结果评测",
+              "section": "V.C",
+              "file": "catalog/evaluation/human-and-outcome-based-evaluation.csv",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "evaluation-reliability-and-limits",
+          "title": "Reliability and Limits of Evaluation",
+          "title_zh": "评测可靠性与适用范围",
+          "section": "V.D",
+          "file": "catalog/evaluation/reliability-and-limits.csv",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome Computational Character Modeling</title>
+  <desc id="desc">A survey companion organized around role modeling, data foundations, and evaluation.</desc>
+  <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2a3a48" stroke-width=".65"/></pattern></defs>
+  <rect width="1280" height="400" rx="18" fill="#112331"/>
+  <rect x="900" width="380" height="400" fill="url(#grid)"/>
+  <path d="M890 0V400" stroke="#3c5261"/>
+  <text x="56" y="62" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#92cabc">AWESOME / SURVEY COMPANION</text>
+  <text x="52" y="136" font-family="Arial,sans-serif" font-size="52" font-weight="700" fill="#f4f1e8">Computational</text>
+  <text x="52" y="201" font-family="Arial,sans-serif" font-size="52" font-weight="700" fill="#f4f1e8">Character Modeling</text>
+  <text x="56" y="247" font-family="Arial,sans-serif" font-size="20" fill="#b8c8d0">Role-playing agents from a behavioral science perspective</text>
+  <path d="M56 285H825" stroke="#3c5261"/>
+  <text x="56" y="330" font-family="Arial,sans-serif" font-size="18" fill="#92cabc">III / MODELING</text>
+  <text x="316" y="330" font-family="Arial,sans-serif" font-size="18" fill="#e8bc84">IV / DATA</text>
+  <text x="548" y="330" font-family="Arial,sans-serif" font-size="18" fill="#a6b9ee">V / EVALUATION</text>
+  <g fill="none" stroke-width="2">
+    <path d="M1084 98L1174 250H994Z" stroke="#466577"/>
+    <path d="M1084 98V190M1174 250L1084 190M994 250L1084 190" stroke="#6d8795"/>
+    <circle cx="1084" cy="98" r="25" fill="#112331" stroke="#92cabc"/>
+    <circle cx="994" cy="250" r="25" fill="#112331" stroke="#e8bc84"/>
+    <circle cx="1174" cy="250" r="25" fill="#112331" stroke="#a6b9ee"/>
+    <circle cx="1084" cy="190" r="39" fill="#203846" stroke="#c9d5da"/>
+  </g>
+  <text x="1084" y="196" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#f4f1e8">RPA</text>
+  <text x="1084" y="324" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#b8c8d0">A CONNECTED VIEW</text>
+</svg>

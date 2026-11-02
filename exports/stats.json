@@ -1,0 +1,19 @@
+{
+  "unique_citation_ids": 143,
+  "category_records": 351,
+  "category_files": 28,
+  "chapters": {
+    "methods": {
+      "unique_citation_ids": 121,
+      "records": 122
+    },
+    "data": {
+      "unique_citation_ids": 63,
+      "records": 98
+    },
+    "evaluation": {
+      "unique_citation_ids": 82,
+      "records": 131
+    }
+  }
+}

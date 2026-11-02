@@ -1,0 +1,31 @@
+name: Suggest a paper
+description: Add a paper to one or more survey subsections.
+title: '[Paper] '
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Paper title
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Paper URL
+      description: Prefer the publisher, DOI, or arXiv page.
+    validations:
+      required: true
+  - type: textarea
+    id: categories
+    attributes:
+      label: Relevant survey subsections
+      description: List every category in which this paper belongs.
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Relevance and metadata
+      description: Explain the fit to each category, and include authors, year, venue, and official code or data links when available.
+    validations:
+      required: true
