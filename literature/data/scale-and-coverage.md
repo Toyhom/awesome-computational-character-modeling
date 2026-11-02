@@ -9,7 +9,7 @@ Survey §IV.D · [Back to README](../../README.md#data-scale-and-coverage) · [E
 
 Feiteng Fang; Dingwei Chen; Xiang Huang; Ting-En Lin; Yuchuan Wu; Xiong Liu; Xinge Ye; Ziqiang Liu; Haonan Zhang; Liang Zhu; Hamid Alinejad-Rokny; Min Yang; Yongbin Li
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.710) · [Code](https://github.com/calubkk/AAM) · [arXiv](https://arxiv.org/abs/2505.23923)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.710) · [Code](https://github.com/calubkk/AAM) · [arXiv](https://arxiv.org/abs/2505.23923)
 
 Resource: Charm
 
@@ -18,7 +18,7 @@ Resource: Charm
 
 Zhenhua Xu; Dongsheng Chen; Shuo Wang; Jian Li; Chengjie Wang; Meng Han; Yabiao Wang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
 
 Resource: AdaRPSet-Extracted (+2)
 
@@ -36,7 +36,7 @@ Resource: RoleChat
 
 Letian Peng; Kun Zhou; Longfei Yun; Yupeng Hou; Jingbo Shang
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.568) · [arXiv](https://arxiv.org/abs/2601.10080)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.568) · [arXiv](https://arxiv.org/abs/2601.10080)
 
 Resource: Bandori Event Story
 
@@ -90,7 +90,7 @@ Resource: MERRY-Data
 
 Haonan Zhang; Pengpeng Zeng; Ji Zhang; Jingkuan Song; Niculae Sebe; Hengtao Shen; Lianli Gao
 
-**2026 · IEEE Transactions on Pattern Analysis and Machine Intelligence** · [Paper](https://doi.org/10.1109/tpami.2026.3690447) · [Code](https://github.com/zchoi/OmniCharacter-plus)
+**2026 · TPAMI** · [Paper](https://doi.org/10.1109/tpami.2026.3690447) · [Code](https://github.com/zchoi/OmniCharacter-plus)
 
 Resource: OmniCharacter++
 
@@ -99,7 +99,7 @@ Resource: OmniCharacter++
 
 Wenlong Shi; Jianxun Lian; Mingqi Wu; Haiming Qin; Mingyang Zhou; Xing Xie; Naipeng Chao; Hao Liao
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.471) · [arXiv](https://arxiv.org/abs/2605.17044)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.471) · [arXiv](https://arxiv.org/abs/2605.17044)
 
 Resource: PersonaArena persona (+2)
 
@@ -108,7 +108,7 @@ Resource: PersonaArena persona (+2)
 
 Xilong Cheng; Yunxiao Qin; Yuting Tan; Zhengnan Li; Ye Wang; Hongjiang Xiao; Yuan Zhang
 
-**2026 · Transactions of the Association for Computational Linguistics** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
+**2026 · TACL** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
 
 Resource: DRP (+1)
 
@@ -126,7 +126,7 @@ Resource: Video-Grounded (+1)
 
 Arya Shah; Deepali Mishra; Chaklam Silpasuwanchai
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.1421) · [arXiv](https://arxiv.org/abs/2604.10733)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.1421) · [arXiv](https://arxiv.org/abs/2604.10733)
 
 Resource: Sycophancy Benchmark
 
@@ -144,7 +144,7 @@ Resource: RoleScape-20 training and
 
 Yongqi Li; Hao Lang; Fei Huang; Tieyun Qian; Yongbin Li
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.87) · [arXiv](https://arxiv.org/abs/2512.17270)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.87) · [arXiv](https://arxiv.org/abs/2512.17270)
 
 Resource: RPGBench ID Train
 
@@ -162,7 +162,7 @@ Resource: AudioRole (+1)
 
 Yeyong Yu; Runsheng Yu; Haojie Wei; Zhanqiu Zhang; Quan Qian
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.586) · [Code](https://github.com/yuyouyu32/BeyondDialogue) · [arXiv](https://arxiv.org/abs/2408.10903)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.586) · [Code](https://github.com/yuyouyu32/BeyondDialogue) · [arXiv](https://arxiv.org/abs/2408.10903)
 
 Resource: BEYOND DIALOGUE (+1)
 
@@ -171,7 +171,7 @@ Resource: BEYOND DIALOGUE (+1)
 
 Zixiao Wang; Duzhen Zhang; Ishita Agrawal; Shen Gao; Le Song; Xiuying Chen
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1094) · [arXiv](https://arxiv.org/abs/2502.12988)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1094) · [arXiv](https://arxiv.org/abs/2502.12988)
 
 Resource: Lu Xun Essay Corpus (+1)
 
@@ -180,7 +180,7 @@ Resource: Lu Xun Essay Corpus (+1)
 
 Jinfeng Zhou; Yongkang Huang; Bosi Wen; Guanqun Bi; Yuxuan Chen; Pei Ke; Zhuang Chen; Xiyao Xiao; Libiao Peng; Kuntian Tang; Rongsheng Zhang; Le Zhang; Tangjie Lv; Zhipeng Hu; Hongning Wang; Minlie Huang
 
-**2025 · Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
+**2025 · AAAI 2025** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
 
 Resource: CharacterBench data (+2)
 
@@ -189,7 +189,7 @@ Resource: CharacterBench data (+2)
 
 Xuyan Yin; Xinran Yang; Zihao Li; Lixin Zou; Chenliang Li
 
-**2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.323)
+**2025 · EMNLP 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.323)
 
 Resource: CharacterCraft dialog (+1)
 
@@ -207,7 +207,7 @@ Resource: Condition-checker
 
 Xintao Wang; Heng Wang; Yifei Zhang; Xinfeng Yuan; Rui Xu; Jen-tse Huang; Siyu Yuan; Haoran Guo; Jiangjie Chen; Shuchang Zhou; Wei Wang; Yanghua Xiao
 
-**2025 · Proceedings of the 42nd International Conference on Machine Learning** · [Paper](https://arxiv.org/abs/2502.09082)
+**2025 · ICML 2025** · [Paper](https://arxiv.org/abs/2502.09082)
 
 Resource: CoSER dataset
 
@@ -216,7 +216,7 @@ Resource: CoSER dataset
 
 Xinge Ye; Rui Wang; Yuchuan Wu; Victor Ma; Feiteng Fang; Fei Huang; Yongbin Li
 
-**2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.18) · [arXiv](https://arxiv.org/abs/2508.09074)
+**2025 · EMNLP 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.18) · [arXiv](https://arxiv.org/abs/2508.09074)
 
 Resource: RoleplayPref
 
@@ -234,7 +234,7 @@ Resource: CHARCO
 
 Libo Sun; Siyuan Wang; Xuanjing Huang; Zhongyu Wei
 
-**2025 · Lecture Notes in Computer Science** · [Paper](https://doi.org/10.1007/978-981-95-3346-6_31) · [arXiv](https://arxiv.org/abs/2407.19412)
+**2025 · NLPCC 2025** · [Paper](https://doi.org/10.1007/978-981-95-3346-6_31) · [arXiv](https://arxiv.org/abs/2407.19412)
 
 Resource: Identity Dialogue Dataset
 
@@ -243,7 +243,7 @@ Resource: Identity Dialogue Dataset
 
 Yanqi Dai; Huanran Hu; Lei Wang; Shengjie Jin; Xu Chen; Zhiwu Lu
 
-**2025 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2408.04203) · [Code](https://github.com/YanqiDai/MMRole)
+**2025 · ICLR 2025** · [Paper](https://arxiv.org/abs/2408.04203) · [Code](https://github.com/YanqiDai/MMRole)
 
 Resource: MMRole-Data
 
@@ -261,7 +261,7 @@ Resource: ZH-4O Dataset (+1)
 
 Haonan Zhang; Run Luo; Xiong Liu; Yuchuan Wu; Ting-En Lin; Pengpeng Zeng; Qiang Qu; Feiteng Fang; Min Yang; Lianli Gao; Jingkuan Song; Fei Huang; Yongbin Li
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.1276) · [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OmniCharacter) · [arXiv](https://arxiv.org/abs/2505.20277)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.1276) · [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OmniCharacter) · [arXiv](https://arxiv.org/abs/2505.20277)
 
 Resource: OmniCharacter-10K
 
@@ -306,7 +306,7 @@ Resource: Transcribed Audio (+1)
 
 Pinyi Zhang; Siyu An; Lingfeng Qiao; Yifei Yu; Jingyang Chen; Jie Wang; Di Yin; Xing Sun; Kai Zhang
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.603)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.603)
 
 Resource: RolePlot Plot-progression
 
@@ -324,7 +324,7 @@ Resource: RoleRM human-annotated
 
 Wenhao Liu; Siyu An; Junru Lu; Muling Wu; Tianlong Li; Xiaohua Wang; Changze lv; Xiaoqing Zheng; Di Yin; Xing Sun; Xuanjing Huang
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.311) · [arXiv](https://arxiv.org/abs/2409.16913)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.311) · [arXiv](https://arxiv.org/abs/2409.16913)
 
 Resource: RoleRef
 
@@ -333,7 +333,7 @@ Resource: RoleRef
 
 Xueqiao Zhang; Chao Zhang; Jingtao Xu; Yifan Zhu; Xin Shi; Yi Yang; Yawei Luo
 
-**2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
+**2025 · EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
 
 Resource: Roleplaying-Video60k
 
@@ -373,6 +373,15 @@ Rui Xu; Xintao Wang; Jiangjie Chen; Siyu Yuan; Xinfeng Yuan; Jiaqing Liang; Zulo
 
 Resource: LIFECHOICE
 
+<a id="zhou2023characterglm"></a>
+## CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models
+
+Jinfeng Zhou; Zhuang Chen; Dazhen Wan; Bosi Wen; Yi Song; Jifan Yu; Yongkang Huang; Libiao Peng; Jiaming Yang; Xiyao Xiao; Sahand Sabour; Xiaohan Zhang; Wenjing Hou; Yijia Zhang; Yuxiao Dong; Jie Tang; Minlie Huang
+
+**2024 · EMNLP 2024 (Industry)** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-industry.107) · [arXiv](https://arxiv.org/abs/2311.16832)
+
+Resource: CharacterDial released
+
 <a id="tang2024enhancing"></a>
 ## Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement
 
@@ -396,7 +405,7 @@ Resource: ERABAL\_all (+1)
 
 Xinfeng Yuan; Siyu Yuan; Yuhan Cui; Tianhe Lin; Xintao Wang; Rui Xu; Jiangjie Chen; Deqing Yang
 
-**2024 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.456) · [Code](https://github.com/Joanna0123/character_profiling) · [arXiv](https://arxiv.org/abs/2404.12726)
+**2024 · EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.456) · [Code](https://github.com/Joanna0123/character_profiling) · [arXiv](https://arxiv.org/abs/2404.12726)
 
 Resource: CROSS (+1)
 
@@ -405,7 +414,7 @@ Resource: CROSS (+1)
 
 Keming Lu; Bowen Yu; Chang Zhou; Jingren Zhou
 
-**2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.423) · [Code](https://github.com/OFA-Sys/Ditto) · [arXiv](https://arxiv.org/abs/2401.12474)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.423) · [Code](https://github.com/OFA-Sys/Ditto) · [arXiv](https://arxiv.org/abs/2401.12474)
 
 Resource: WIKIROLE
 
@@ -423,7 +432,7 @@ Resource: MINDECHO Dataset
 
 Nafis Sadeq; Zhouhang Xie; Byungkyu Kang; Prarit Lamba; Xiang Gao; Julian McAuley
 
-**2024 · Findings of the Association for Computational Linguistics: EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.846) · [Code](https://github.com/NafisSadeq/rolefact.git) · [arXiv](https://arxiv.org/abs/2406.17260)
+**2024 · EMNLP 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.846) · [Code](https://github.com/NafisSadeq/rolefact.git) · [arXiv](https://arxiv.org/abs/2406.17260)
 
 Resource: SGR Dataset
 
@@ -432,7 +441,7 @@ Resource: SGR Dataset
 
 Letian Peng; Jingbo Shang
 
-**2024 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2405.07726)
+**2024 · NeurIPS 2024** · [Paper](https://arxiv.org/abs/2405.07726)
 
 Resource: Symbolic Distillation (+1)
 
@@ -450,7 +459,7 @@ Resource: Role-playing
 
 Meiling Tao; Liang Xuechen; Tianyu Shi; Lei Yu; Yiting Xie
 
-**2024 · Proceedings of the 1st Workshop on Personalization of Generative AI Systems (PERSONALIZE 2024)** · [Paper](https://doi.org/10.18653/v1/2024.personalize-1.1)
+**2024 · PERSONALIZE 2024 (Workshop)** · [Paper](https://doi.org/10.18653/v1/2024.personalize-1.1)
 
 Resource: RoleCraft-GLM dataset
 
@@ -459,7 +468,7 @@ Resource: RoleCraft-GLM dataset
 
 Zekun Moore Wang; Zhongyuan Peng; Haoran Que; Jiaheng Liu; Wangchunshu Zhou; Yuhan Wu; Hongcheng Guo; Ruitong Gan; Zehao Ni; Jian Yang; Man Zhang; Zhaoxiang Zhang; Wanli Ouyang; Ke Xu; Stephen W. Huang; Jie Fu; Junran Peng
 
-**2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
+**2024 · ACL 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
 
 Resource: RoleBench
 
@@ -477,18 +486,9 @@ Resource: TBS data
 
 Yunfan Shao; Linyang Li; Junqi Dai; Xipeng Qiu
 
-**2023 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://arxiv.org/abs/2310.10158)
+**2023 · EMNLP 2023** · [Paper](https://arxiv.org/abs/2310.10158)
 
 Resource: Character-LLM
-
-<a id="zhou2023characterglm"></a>
-## CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models
-
-Jinfeng Zhou; Zhuang Chen; Dazhen Wan; Bosi Wen; Yi Song; Jifan Yu; Yongkang Huang; Libiao Peng; Jiaming Yang; Xiyao Xiao; Sahand Sabour; Xiaohan Zhang; Wenjing Hou; Yijia Zhang; Yuxiao Dong; Jie Tang; Minlie Huang
-
-**2023 · Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-industry.107) · [arXiv](https://arxiv.org/abs/2311.16832)
-
-Resource: CharacterDial released
 
 <a id="li2023chatharuhi"></a>
 ## ChatHaruhi: Reviving Anime Character in Reality via Large Language Model

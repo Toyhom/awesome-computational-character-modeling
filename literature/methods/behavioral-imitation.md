@@ -9,7 +9,7 @@ Survey §III.A · [Back to README](../../README.md#methods-behavioral-imitation)
 
 Feiteng Fang; Dingwei Chen; Xiang Huang; Ting-En Lin; Yuchuan Wu; Xiong Liu; Xinge Ye; Ziqiang Liu; Haonan Zhang; Liang Zhu; Hamid Alinejad-Rokny; Min Yang; Yongbin Li
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.710) · [Code](https://github.com/calubkk/AAM) · [arXiv](https://arxiv.org/abs/2505.23923)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.710) · [Code](https://github.com/calubkk/AAM) · [arXiv](https://arxiv.org/abs/2505.23923)
 
 <a id="fu2026character"></a>
 ## Character Beyond Speech: Leveraging Role-Playing Evaluation in Audio Large Language Models via Reinforcement Learning
@@ -30,14 +30,14 @@ Yong Ren; Jingbei Li; Haiyang Sun; Yujie Chen; Cheng Yi; Yechang Huang; Hao Gu; 
 
 Shihao Yang; Zhicong Lu; Yong Yang; Bo Lv; Yang Shen; Nayu Liu
 
-**2026 · Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)** · [Paper](https://doi.org/10.1609/AAAI.V40I40.40727) · [arXiv](https://arxiv.org/abs/2511.08017)
+**2026 · AAAI 2026** · [Paper](https://doi.org/10.1609/AAAI.V40I40.40727) · [arXiv](https://arxiv.org/abs/2511.08017)
 
 <a id="liao2025moa"></a>
 ## MOA: Multi-Objective Alignment for Role-Playing Agents
 
 Chonghua Liao; Ke Wang; Yuchuan Wu; Ruoran Li; Fei Huang; Yongbin Li
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.531) · [arXiv](https://arxiv.org/abs/2512.09756)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.531) · [arXiv](https://arxiv.org/abs/2512.09756)
 
 <a id="tang2026customized"></a>
 ## Towards Customized Multimodal Role-Play
@@ -51,7 +51,7 @@ Chao Tang; Jianzong Wu; Qingyu Shi; Ye Tian; Aixi Zhang; Hao Jiang; Jiangning Zh
 
 Yongqi Li; Hao Lang; Fei Huang; Tieyun Qian; Yongbin Li
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.87) · [arXiv](https://arxiv.org/abs/2512.17270)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.87) · [arXiv](https://arxiv.org/abs/2512.17270)
 
 <a id="xu2026vita"></a>
 ## VITA-QinYu: Expressive Spoken Language Model for Role-Playing and Singing
@@ -65,49 +65,49 @@ Jiacheng Xu; Heting Gao; Liufei Xie; Zhenchuan Yang; Lijiang Li; Yiting Chen; Bi
 
 Weixiang Zhao; Yulin Hu; Yang Deng; Jiahe Guo; Xingyu Sui; Xinyang Han; An Zhang; Yanyan Zhao; Bing Qin; Tat-Seng Chua; Ting Liu
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.544) · [arXiv](https://arxiv.org/abs/2502.20968)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.544) · [arXiv](https://arxiv.org/abs/2502.20968)
 
 <a id="yu2024beyond"></a>
 ## BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model
 
 Yeyong Yu; Runsheng Yu; Haojie Wei; Zhanqiu Zhang; Quan Qian
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.586) · [Code](https://github.com/yuyouyu32/BeyondDialogue) · [arXiv](https://arxiv.org/abs/2408.10903)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.586) · [Code](https://github.com/yuyouyu32/BeyondDialogue) · [arXiv](https://arxiv.org/abs/2408.10903)
 
 <a id="zhou2025characterbench"></a>
 ## CharacterBench: Benchmarking Character Customization of Large Language Models
 
 Jinfeng Zhou; Yongkang Huang; Bosi Wen; Guanqun Bi; Yuxuan Chen; Pei Ke; Zhuang Chen; Xiyao Xiao; Libiao Peng; Kuntian Tang; Rongsheng Zhang; Le Zhang; Tangjie Lv; Zhipeng Hu; Hongning Wang; Minlie Huang
 
-**2025 · Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
+**2025 · AAAI 2025** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
 
 <a id="yin2025charactercraft"></a>
 ## CharacterCraft: Bridging the Literature-Reality Dialogue Gap for Practical Role-Playing Agents
 
 Xuyan Yin; Xinran Yang; Zihao Li; Lixin Zou; Chenliang Li
 
-**2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.323)
+**2025 · EMNLP 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.323)
 
 <a id="ye2025cpo"></a>
 ## CPO: Addressing Reward Ambiguity in Role-playing Dialogue via Comparative Policy Optimization
 
 Xinge Ye; Rui Wang; Yuchuan Wu; Victor Ma; Feiteng Fang; Fei Huang; Yongbin Li
 
-**2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.18) · [arXiv](https://arxiv.org/abs/2508.09074)
+**2025 · EMNLP 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.18) · [arXiv](https://arxiv.org/abs/2508.09074)
 
 <a id="dai2024mmrole"></a>
 ## MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents
 
 Yanqi Dai; Huanran Hu; Lei Wang; Shengjie Jin; Xu Chen; Zhiwu Lu
 
-**2025 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2408.04203) · [Code](https://github.com/YanqiDai/MMRole)
+**2025 · ICLR 2025** · [Paper](https://arxiv.org/abs/2408.04203) · [Code](https://github.com/YanqiDai/MMRole)
 
 <a id="zhang2025omnicharacter"></a>
 ## OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction
 
 Haonan Zhang; Run Luo; Xiong Liu; Yuchuan Wu; Ting-En Lin; Pengpeng Zeng; Qiang Qu; Feiteng Fang; Min Yang; Lianli Gao; Jingkuan Song; Fei Huang; Yongbin Li
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.1276) · [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OmniCharacter) · [arXiv](https://arxiv.org/abs/2505.20277)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.1276) · [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OmniCharacter) · [arXiv](https://arxiv.org/abs/2505.20277)
 
 <a id="wang2025opencharacter"></a>
 ## OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas
@@ -121,7 +121,7 @@ Xiaoyang Wang; Hongming Zhang; Tao Ge; Wenhao Yu; Dian Yu; Dong Yu
 
 Yifan Duan; Yihong Tang; Kehai Chen; Liqiang Nie; Min Zhang
 
-**2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1453) · [arXiv](https://arxiv.org/abs/2506.02480)
+**2025 · EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1453) · [arXiv](https://arxiv.org/abs/2506.02480)
 
 <a id="rupprecht2025rags"></a>
 ## RAGs to Riches: RAG-like Few-shot Learning for Large Language Model Role-playing
@@ -149,7 +149,7 @@ Xiaoyu Zhan; Xinyu Fu; Hao Sun; Yuanqi Li; Jie Guo; Yanwen Guo
 
 Yihong Tang; Kehai Chen; Xuefeng Bai; Zhengyu Niu; Bo Wang; Jie Liu; Min Zhang
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.839) · [arXiv](https://arxiv.org/abs/2502.20757)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.839) · [arXiv](https://arxiv.org/abs/2502.20757)
 
 <a id="chen2024multi"></a>
 ## A Multi-Task Role-Playing Agent Capable of Imitating Character Linguistic Styles
@@ -157,6 +157,13 @@ Yihong Tang; Kehai Chen; Xuefeng Bai; Zhengyu Niu; Bo Wang; Jie Liu; Min Zhang
 Siyuan Chen; Qingyi Si; Chenxu Yang; Yunzhi Liang; Zheng Lin; Huan Liu; Weiping Wang
 
 **2024 · arXiv** · [Paper](https://arxiv.org/abs/2411.02457)
+
+<a id="zhou2023characterglm"></a>
+## CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models
+
+Jinfeng Zhou; Zhuang Chen; Dazhen Wan; Bosi Wen; Yi Song; Jifan Yu; Yongkang Huang; Libiao Peng; Jiaming Yang; Xiyao Xiao; Sahand Sabour; Xiaohan Zhang; Wenjing Hou; Yijia Zhang; Yuxiao Dong; Jie Tang; Minlie Huang
+
+**2024 · EMNLP 2024 (Industry)** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-industry.107) · [arXiv](https://arxiv.org/abs/2311.16832)
 
 <a id="tang2024enhancing"></a>
 ## Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement
@@ -177,7 +184,7 @@ Yihong Tang; Jiao Ou; Che Liu; Fuzheng Zhang; Di Zhang; Kun Gai
 
 Keming Lu; Bowen Yu; Chang Zhou; Jingren Zhou
 
-**2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.423) · [Code](https://github.com/OFA-Sys/Ditto) · [arXiv](https://arxiv.org/abs/2401.12474)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.423) · [Code](https://github.com/OFA-Sys/Ditto) · [arXiv](https://arxiv.org/abs/2401.12474)
 
 <a id="xu2024mindecho"></a>
 ## MINDECHO: Role-Playing Language Agents for Key Opinion Leaders
@@ -191,7 +198,7 @@ Rui Xu; Dakuan Lu; Xiaoyu Tan; Xintao Wang; Siyu Yuan; Jiangjie Chen; Wei Chu; Y
 
 Xiaoyan Yu; Tongxu Luo; Yifan Wei; Fangyu Lei; Yiming Huang; Hao Peng; Liehuang Zhu
 
-**2024 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.697) · [Code](https://github.com/weiyifan1023/Neeko) · [arXiv](https://arxiv.org/abs/2402.13717)
+**2024 · EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.697) · [Code](https://github.com/weiyifan1023/Neeko) · [arXiv](https://arxiv.org/abs/2402.13717)
 
 <a id="liu2024role"></a>
 ## Role-playing Prompt Framework: Generation and Evaluation
@@ -205,21 +212,14 @@ Xun Liu; Zhengwei Ni
 
 Meiling Tao; Liang Xuechen; Tianyu Shi; Lei Yu; Yiting Xie
 
-**2024 · Proceedings of the 1st Workshop on Personalization of Generative AI Systems (PERSONALIZE 2024)** · [Paper](https://doi.org/10.18653/v1/2024.personalize-1.1)
+**2024 · PERSONALIZE 2024 (Workshop)** · [Paper](https://doi.org/10.18653/v1/2024.personalize-1.1)
 
 <a id="wang2023rolellm"></a>
 ## RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
 
 Zekun Moore Wang; Zhongyuan Peng; Haoran Que; Jiaheng Liu; Wangchunshu Zhou; Yuhan Wu; Hongcheng Guo; Ruitong Gan; Zehao Ni; Jian Yang; Man Zhang; Zhaoxiang Zhang; Wanli Ouyang; Ke Xu; Stephen W. Huang; Jie Fu; Junran Peng
 
-**2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
-
-<a id="zhou2023characterglm"></a>
-## CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models
-
-Jinfeng Zhou; Zhuang Chen; Dazhen Wan; Bosi Wen; Yi Song; Jifan Yu; Yongkang Huang; Libiao Peng; Jiaming Yang; Xiyao Xiao; Sahand Sabour; Xiaohan Zhang; Wenjing Hou; Yijia Zhang; Yuxiao Dong; Jie Tang; Minlie Huang
-
-**2023 · Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-industry.107) · [arXiv](https://arxiv.org/abs/2311.16832)
+**2024 · ACL 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
 
 <a id="li2023chatharuhi"></a>
 ## ChatHaruhi: Reviving Anime Character in Reality via Large Language Model
@@ -233,7 +233,7 @@ Cheng Li; Ziang Leng; Chenxi Yan; Junyi Shen; Hao Wang; Weishi MI; Yaying Fei; X
 
 Rafael Rafailov; Archit Sharma; Eric Mitchell; Stefano Ermon; Christopher D. Manning; Chelsea Finn
 
-**2023 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2305.18290)
+**2023 · NeurIPS 2023** · [Paper](https://arxiv.org/abs/2305.18290)
 
 <a id="cui2023thespian"></a>
 ## Thespian: Multi-Character Text Role-Playing Game Agents
@@ -247,32 +247,32 @@ Christopher Cui; Xiangyu Peng; Mark Riedl
 
 Jason Wei; Maarten Bosma; Vincent Y. Zhao; Kelvin Guu; Adams Wei Yu; Brian Lester; Nan Du; Andrew M. Dai; Quoc V. Le
 
-**2022 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2109.01652)
+**2022 · ICLR 2022** · [Paper](https://arxiv.org/abs/2109.01652)
 
 <a id="hu2021lora"></a>
 ## LoRA: Low-Rank Adaptation of Large Language Models
 
 Edward J. Hu; Yelong Shen; Phillip Wallis; Zeyuan Allen-Zhu; Yuanzhi Li; Shean Wang; Lu Wang; Weizhu Chen
 
-**2022 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2106.09685) · [Code](https://github.com/microsoft/LoRA)
+**2022 · ICLR 2022** · [Paper](https://arxiv.org/abs/2106.09685) · [Code](https://github.com/microsoft/LoRA)
 
 <a id="ouyang2022training"></a>
 ## Training language models to follow instructions with human feedback
 
 Long Ouyang; Jeff Wu; Xu Jiang; Diogo Almeida; Carroll L. Wainwright; Pamela Mishkin; Chong Zhang; Sandhini Agarwal; Katarina Slama; Alex Ray; John Schulman; Jacob Hilton; Fraser Kelton; Luke Miller; Maddie Simens; Amanda Askell; Peter Welinder; Paul Christiano; Jan Leike; Ryan Lowe
 
-**2022 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2203.02155)
+**2022 · NeurIPS 2022** · [Paper](https://arxiv.org/abs/2203.02155)
 
 <a id="lewis2020retrieval"></a>
 ## Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
 
 Patrick Lewis; Ethan Perez; Aleksandra Piktus; Fabio Petroni; Vladimir Karpukhin; Naman Goyal; Heinrich Küttler; Mike Lewis; Wen-tau Yih; Tim Rocktäschel; Sebastian Riedel; Douwe Kiela
 
-**2020 · Proceedings of the 34th International Conference on Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2005.11401)
+**2020 · NeurIPS 2020** · [Paper](https://arxiv.org/abs/2005.11401)
 
 <a id="watson1913psychology"></a>
 ## Psychology as the Behaviorist Views It
 
 John B. Watson
 
-**1913 · Psychological Review** · [Paper](https://doi.org/10.1037/h0074428)
+**1913 · Psychol. Rev.** · [Paper](https://doi.org/10.1037/h0074428)

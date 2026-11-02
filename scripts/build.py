@@ -104,28 +104,10 @@ def links(r):
     return ' · '.join(result) or '—'
 
 
-def venue_short(value):
-    replacements=[
-        ('Findings of the Association for Computational Linguistics: ', 'Findings: '),
-        ('Proceedings of the Association for Computational Linguistics', 'ACL'),
-        ('Proceedings of the AAAI Conference on Artificial Intelligence', 'AAAI'),
-        ('Proceedings of the ', ''),
-        ('Annual Meeting of the Association for Computational Linguistics', 'ACL'),
-        ('Conference on Empirical Methods in Natural Language Processing', 'EMNLP'),
-        ('International Conference on Machine Learning', 'ICML'),
-        ('International Conference on Learning Representations', 'ICLR'),
-        ('Advances in Neural Information Processing Systems', 'NeurIPS'),
-        ('Transactions on Machine Learning Research', 'TMLR'),
-        ('IEEE Transactions on Pattern Analysis and Machine Intelligence', 'TPAMI'),
-    ]
-    for a,b in replacements:value=value.replace(a,b)
-    return value
-
-
 def table(rows):
     out=['| Year | Paper | Venue | Links |','| :-- | :-- | :-- | :-- |']
     for r in rows:
-        out.append(f'| {r["year"]} | **{md(r["title"])}** | {md(venue_short(r["venue"]))} | {links(r)} |')
+        out.append(f'| {r["year"]} | **{md(r["title"])}** | {md(r["venue"])} | {links(r)} |')
     return '\n'.join(out)+'\n'
 
 

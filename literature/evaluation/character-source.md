@@ -30,7 +30,7 @@ Yun-Shiuan Chuang; Ruixuan Tu; Chengtao Dai; You Li; Smit Vasani; Binwei Yao; Mi
 
 Xintao Wang; Yunze Xiao; Jen-tse Huang; Siyu Yuan; Rui Xu; Haoran Guo; Quan Tu; Yaying Fei; Ziang Leng; Wei Wang; Jiangjie Chen; Cheng Li; Yanghua Xiao
 
-**2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.102) · [arXiv](https://arxiv.org/abs/2310.17976)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.102) · [arXiv](https://arxiv.org/abs/2310.17976)
 
 <a id="shen2023roleeval"></a>
 ## RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models

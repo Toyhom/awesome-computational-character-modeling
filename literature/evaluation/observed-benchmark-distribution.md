@@ -9,7 +9,7 @@ Survey §V.B · [Back to README](../../README.md#evaluation-observed-benchmark-d
 
 Feiteng Fang; Dingwei Chen; Xiang Huang; Ting-En Lin; Yuchuan Wu; Xiong Liu; Xinge Ye; Ziqiang Liu; Haonan Zhang; Liang Zhu; Hamid Alinejad-Rokny; Min Yang; Yongbin Li
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.710) · [Code](https://github.com/calubkk/AAM) · [arXiv](https://arxiv.org/abs/2505.23923)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.710) · [Code](https://github.com/calubkk/AAM) · [arXiv](https://arxiv.org/abs/2505.23923)
 
 Benchmark: Charm
 
@@ -18,7 +18,7 @@ Benchmark: Charm
 
 Xi Chen; Wei Xue; Yike Guo
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1718) · [arXiv](https://arxiv.org/abs/2604.11103)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1718) · [arXiv](https://arxiv.org/abs/2604.11103)
 
 Benchmark: ActorMindBench
 
@@ -27,7 +27,7 @@ Benchmark: ActorMindBench
 
 Zhenhua Xu; Dongsheng Chen; Shuo Wang; Jian Li; Chengjie Wang; Meng Han; Yabiao Wang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
 
 Benchmark: AdaptiveBench
 
@@ -63,7 +63,7 @@ Benchmark: RoleChat
 
 Letian Peng; Kun Zhou; Longfei Yun; Yupeng Hou; Jingbo Shang
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.568) · [arXiv](https://arxiv.org/abs/2601.10080)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.568) · [arXiv](https://arxiv.org/abs/2601.10080)
 
 Benchmark: Fine-grained Fandom (+1)
 
@@ -81,7 +81,7 @@ Benchmark: DynSess data (+1)
 
 Kai Wang; Haoyang You; Yang Zhang; Zhongjie Wang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1175) · [arXiv](https://arxiv.org/abs/2603.19313)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1175) · [arXiv](https://arxiv.org/abs/2603.19313)
 
 Benchmark: MRBench
 
@@ -99,7 +99,7 @@ Benchmark: MERRY
 
 Haonan Zhang; Pengpeng Zeng; Ji Zhang; Jingkuan Song; Niculae Sebe; Hengtao Shen; Lianli Gao
 
-**2026 · IEEE Transactions on Pattern Analysis and Machine Intelligence** · [Paper](https://doi.org/10.1109/tpami.2026.3690447) · [Code](https://github.com/zchoi/OmniCharacter-plus)
+**2026 · TPAMI** · [Paper](https://doi.org/10.1109/tpami.2026.3690447) · [Code](https://github.com/zchoi/OmniCharacter-plus)
 
 Benchmark: OmniCharacter++
 
@@ -108,7 +108,7 @@ Benchmark: OmniCharacter++
 
 Wenlong Shi; Jianxun Lian; Mingqi Wu; Haiming Qin; Mingyang Zhou; Xing Xie; Naipeng Chao; Hao Liao
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.471) · [arXiv](https://arxiv.org/abs/2605.17044)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.471) · [arXiv](https://arxiv.org/abs/2605.17044)
 
 Benchmark: PersonaArena
 
@@ -117,7 +117,7 @@ Benchmark: PersonaArena
 
 Xilong Cheng; Yunxiao Qin; Yuting Tan; Zhengnan Li; Ye Wang; Hongjiang Xiao; Yuan Zhang
 
-**2026 · Transactions of the Association for Computational Linguistics** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
+**2026 · TACL** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
 
 Benchmark: DevalRP
 
@@ -144,7 +144,7 @@ Benchmark: Immersive Role-Playing
 
 Huayi Lai; Shichao Song; Simin Niu; Hanyu Wang; Jiawei Yang; Zhouxing Wang; Zhiqiang Yin; Xun Liang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
 
 Benchmark: RoleCDE
 
@@ -171,7 +171,7 @@ Benchmark: KBF-QA
 
 Zihao Yi; Qingxuan Jiang; Ruotian Ma; Xingyu Chen; Qu Yang; Mengru Wang; Fanghua Ye; Ying Shen; Zhaopeng Tu; Xiaolong Li; Linus
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.282) · [arXiv](https://arxiv.org/abs/2511.04962)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.282) · [arXiv](https://arxiv.org/abs/2511.04962)
 
 Benchmark: Moral RolePlay
 
@@ -180,7 +180,7 @@ Benchmark: Moral RolePlay
 
 Arya Shah; Deepali Mishra; Chaklam Silpasuwanchai
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.1421) · [arXiv](https://arxiv.org/abs/2604.10733)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.1421) · [arXiv](https://arxiv.org/abs/2604.10733)
 
 Benchmark: Sycophancy Benchmark
 
@@ -198,7 +198,7 @@ Benchmark: RoleScape-20 Benchmark
 
 Yongqi Li; Hao Lang; Fei Huang; Tieyun Qian; Yongbin Li
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.87) · [arXiv](https://arxiv.org/abs/2512.17270)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.87) · [arXiv](https://arxiv.org/abs/2512.17270)
 
 Benchmark: RPGBench
 
@@ -216,7 +216,7 @@ Benchmark: AudioRole
 
 Yeyong Yu; Runsheng Yu; Haojie Wei; Zhanqiu Zhang; Quan Qian
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.586) · [Code](https://github.com/yuyouyu32/BeyondDialogue) · [arXiv](https://arxiv.org/abs/2408.10903)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.586) · [Code](https://github.com/yuyouyu32/BeyondDialogue) · [arXiv](https://arxiv.org/abs/2408.10903)
 
 Benchmark: BEYOND DIALOGUE
 
@@ -234,7 +234,7 @@ Benchmark: Beyond One World
 
 Zixiao Wang; Duzhen Zhang; Ishita Agrawal; Shen Gao; Le Song; Xiuying Chen
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1094) · [arXiv](https://arxiv.org/abs/2502.12988)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1094) · [arXiv](https://arxiv.org/abs/2502.12988)
 
 Benchmark: CharacterBot Evaluation
 
@@ -243,7 +243,7 @@ Benchmark: CharacterBot Evaluation
 
 Jinfeng Zhou; Yongkang Huang; Bosi Wen; Guanqun Bi; Yuxuan Chen; Pei Ke; Zhuang Chen; Xiyao Xiao; Libiao Peng; Kuntian Tang; Rongsheng Zhang; Le Zhang; Tangjie Lv; Zhipeng Hu; Hongning Wang; Minlie Huang
 
-**2025 · Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
+**2025 · AAAI 2025** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
 
 Benchmark: CharacterBench
 
@@ -252,7 +252,7 @@ Benchmark: CharacterBench
 
 Lei Wang; Jianxun Lian; Yi Huang; Yanqi Dai; Haoxuan Li; Xu Chen; Xing Xie; Ji-Rong Wen
 
-**2025 · Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL)** · [Paper](https://doi.org/10.18653/v1/2025.naacl-long.323) · [arXiv](https://arxiv.org/abs/2412.05631)
+**2025 · NAACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.naacl-long.323) · [arXiv](https://arxiv.org/abs/2412.05631)
 
 Benchmark: CharacterBox
 
@@ -261,7 +261,7 @@ Benchmark: CharacterBox
 
 Xuyan Yin; Xinran Yang; Zihao Li; Lixin Zou; Chenliang Li
 
-**2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.323)
+**2025 · EMNLP 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.323)
 
 Benchmark: CharacterCraft-Eval
 
@@ -279,7 +279,7 @@ Benchmark: Fandom Benchmark
 
 Xintao Wang; Heng Wang; Yifei Zhang; Xinfeng Yuan; Rui Xu; Jen-tse Huang; Siyu Yuan; Haoran Guo; Jiangjie Chen; Shuchang Zhou; Wei Wang; Yanghua Xiao
 
-**2025 · Proceedings of the 42nd International Conference on Machine Learning** · [Paper](https://arxiv.org/abs/2502.09082)
+**2025 · ICML 2025** · [Paper](https://arxiv.org/abs/2502.09082)
 
 Benchmark: CoSER Test
 
@@ -288,7 +288,7 @@ Benchmark: CoSER Test
 
 Xinge Ye; Rui Wang; Yuchuan Wu; Victor Ma; Feiteng Fang; Fei Huang; Yongbin Li
 
-**2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.18) · [arXiv](https://arxiv.org/abs/2508.09074)
+**2025 · EMNLP 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.18) · [arXiv](https://arxiv.org/abs/2508.09074)
 
 Benchmark: CharacterArena
 
@@ -315,7 +315,7 @@ Benchmark: FURINA-Bench
 
 Rui Xu; MingYu Wang; XinTao Wang; Dakuan Lu; Xiaoyu Tan; Wei Chu; Yinghui Xu
 
-**2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.819) · [Code](https://github.com/airaer1998/RPA_Thought) · [arXiv](https://arxiv.org/abs/2503.08193)
+**2025 · EMNLP 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.819) · [Code](https://github.com/airaer1998/RPA_Thought) · [arXiv](https://arxiv.org/abs/2503.08193)
 
 Benchmark: ROLETHINK Gold Set (+1)
 
@@ -324,7 +324,7 @@ Benchmark: ROLETHINK Gold Set (+1)
 
 Libo Sun; Siyuan Wang; Xuanjing Huang; Zhongyu Wei
 
-**2025 · Lecture Notes in Computer Science** · [Paper](https://doi.org/10.1007/978-981-95-3346-6_31) · [arXiv](https://arxiv.org/abs/2407.19412)
+**2025 · NLPCC 2025** · [Paper](https://doi.org/10.1007/978-981-95-3346-6_31) · [arXiv](https://arxiv.org/abs/2407.19412)
 
 Benchmark: Identity-Eval (Scale (+1)
 
@@ -333,7 +333,7 @@ Benchmark: Identity-Eval (Scale (+1)
 
 Yanqi Dai; Huanran Hu; Lei Wang; Shengjie Jin; Xu Chen; Zhiwu Lu
 
-**2025 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2408.04203) · [Code](https://github.com/YanqiDai/MMRole)
+**2025 · ICLR 2025** · [Paper](https://arxiv.org/abs/2408.04203) · [Code](https://github.com/YanqiDai/MMRole)
 
 Benchmark: MMRole-Eval
 
@@ -360,7 +360,7 @@ Benchmark: Moral Robustness and
 
 Haonan Zhang; Run Luo; Xiong Liu; Yuchuan Wu; Ting-En Lin; Pengpeng Zeng; Qiang Qu; Feiteng Fang; Min Yang; Lianli Gao; Jingkuan Song; Fei Huang; Yongbin Li
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.1276) · [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OmniCharacter) · [arXiv](https://arxiv.org/abs/2505.20277)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.1276) · [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OmniCharacter) · [arXiv](https://arxiv.org/abs/2505.20277)
 
 Benchmark: OmniCharacter-10K data
 
@@ -396,7 +396,7 @@ Benchmark: Role-Playing Evaluation
 
 Wenyuan Zhang; Shuaiyi Nie; Jiawei Sheng; Zefeng Zhang; Xinghua Zhang; Yongquan He; Tingwen Liu
 
-**2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1689) · [arXiv](https://arxiv.org/abs/2409.11726)
+**2025 · EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1689) · [arXiv](https://arxiv.org/abs/2409.11726)
 
 Benchmark: RoleKE-Bench
 
@@ -405,7 +405,7 @@ Benchmark: RoleKE-Bench
 
 Hao Xiang; Tianyi Tang; Yang Su; Bowen Yu; An Yang; Fei Huang; Yichang Zhang; Yaojie Lu; Hongyu Lin; Xianpei Han; Jingren Zhou; Junyang Lin; Le Sun
 
-**2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.730) · [arXiv](https://arxiv.org/abs/2507.20352)
+**2025 · EMNLP 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.730) · [arXiv](https://arxiv.org/abs/2507.20352)
 
 Benchmark: RMTBench
 
@@ -414,7 +414,7 @@ Benchmark: RMTBench
 
 Yassine El Boudouri; Walter Nuninger; Julian Alvarez; Yvan Peter
 
-**2025 · Lecture Notes in Networks and Systems** · [Paper](https://doi.org/10.1007/978-3-032-05070-0_11) · [Code](https://github.com/yelboudouri/RPEval) · [arXiv](https://arxiv.org/abs/2505.13157)
+**2025 · MIS4TEL 2025** · [Paper](https://doi.org/10.1007/978-3-032-05070-0_11) · [Code](https://github.com/yelboudouri/RPEval) · [arXiv](https://arxiv.org/abs/2505.13157)
 
 Benchmark: RPEval
 
@@ -423,7 +423,7 @@ Benchmark: RPEval
 
 Junru Lu; Jiazheng Li; Guodong Shen; Lin Gui; Siyu An; Yulan He; Di Yin; Xing Sun
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1082) · [Code](https://github.com/LuJunru/RoleMRC) · [arXiv](https://arxiv.org/abs/2502.11387)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1082) · [Code](https://github.com/LuJunru/RoleMRC) · [arXiv](https://arxiv.org/abs/2502.11387)
 
 Benchmark: RoleMRC
 
@@ -432,7 +432,7 @@ Benchmark: RoleMRC
 
 Pinyi Zhang; Siyu An; Lingfeng Qiao; Yifei Yu; Jingyang Chen; Jie Wang; Di Yin; Xing Sun; Kai Zhang
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.603)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.603)
 
 Benchmark: RolePlot Evaluation
 
@@ -450,7 +450,7 @@ Benchmark: RoleRMBench
 
 Wang, Ye; Li, Tong; Li, Meixuan; Cheng, Ziyue; Wang, Ge; Kang, Hanyue; Deng, Yaling; Xiao, Hongjiang; Zhang, Yuan
 
-**2025 · Computers in Human Behavior: Artificial Humans** · [Paper](https://doi.org/10.1016/j.chbah.2025.100184)
+**2025 · CHBAH** · [Paper](https://doi.org/10.1016/j.chbah.2025.100184)
 
 Benchmark: RVBench
 
@@ -459,7 +459,7 @@ Benchmark: RVBench
 
 Chuyi Kong; Ziyang Luo; Hongzhan Lin; Zhiyuan Fan; Yaxin Fan; Yuxi Sun; Jing Ma
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.47) · [arXiv](https://arxiv.org/abs/2411.07965)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.47) · [arXiv](https://arxiv.org/abs/2411.07965)
 
 Benchmark: SHARP
 
@@ -468,7 +468,7 @@ Benchmark: SHARP
 
 Wenhao Liu; Siyu An; Junru Lu; Muling Wu; Tianlong Li; Xiaohua Wang; Changze lv; Xiaoqing Zheng; Di Yin; Xing Sun; Xuanjing Huang
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.311) · [arXiv](https://arxiv.org/abs/2409.16913)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.311) · [arXiv](https://arxiv.org/abs/2409.16913)
 
 Benchmark: RoleRef
 
@@ -477,7 +477,7 @@ Benchmark: RoleRef
 
 Xueqiao Zhang; Chao Zhang; Jingtao Xu; Yifan Zhu; Xin Shi; Yi Yang; Yawei Luo
 
-**2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
+**2025 · EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
 
 Benchmark: Video2Roleplay data
 
@@ -522,7 +522,7 @@ Benchmark: LIFECHOICE
 
 Quan Tu; Shilong Fan; Zihang Tian; Rui Yan
 
-**2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.638) · [Code](https://github.com/morecry/CharacterEval) · [arXiv](https://arxiv.org/abs/2401.01275)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.638) · [Code](https://github.com/morecry/CharacterEval) · [arXiv](https://arxiv.org/abs/2401.01275)
 
 Benchmark: CharacterEval
 
@@ -549,7 +549,7 @@ Benchmark: ERABAL
 
 Xinfeng Yuan; Siyu Yuan; Yuhan Cui; Tianhe Lin; Xintao Wang; Rui Xu; Jiangjie Chen; Deqing Yang
 
-**2024 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.456) · [Code](https://github.com/Joanna0123/character_profiling) · [arXiv](https://arxiv.org/abs/2404.12726)
+**2024 · EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.456) · [Code](https://github.com/Joanna0123/character_profiling) · [arXiv](https://arxiv.org/abs/2404.12726)
 
 Benchmark: CROSS (Profiling (+1)
 
@@ -567,7 +567,7 @@ Benchmark: ECHO
 
 Xintao Wang; Yunze Xiao; Jen-tse Huang; Siyu Yuan; Rui Xu; Haoran Guo; Quan Tu; Yaying Fei; Ziang Leng; Wei Wang; Jiangjie Chen; Cheng Li; Yanghua Xiao
 
-**2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.102) · [arXiv](https://arxiv.org/abs/2310.17976)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.102) · [arXiv](https://arxiv.org/abs/2310.17976)
 
 Benchmark: InCharacter Benchmark
 
@@ -576,7 +576,7 @@ Benchmark: InCharacter Benchmark
 
 Keming Lu; Bowen Yu; Chang Zhou; Jingren Zhou
 
-**2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.423) · [Code](https://github.com/OFA-Sys/Ditto) · [arXiv](https://arxiv.org/abs/2401.12474)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.423) · [Code](https://github.com/OFA-Sys/Ditto) · [arXiv](https://arxiv.org/abs/2401.12474)
 
 Benchmark: DITTO's role-play
 
@@ -594,7 +594,7 @@ Benchmark: MINDECHO Basic (+1)
 
 Nafis Sadeq; Zhouhang Xie; Byungkyu Kang; Prarit Lamba; Xiang Gao; Julian McAuley
 
-**2024 · Findings of the Association for Computational Linguistics: EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.846) · [Code](https://github.com/NafisSadeq/rolefact.git) · [arXiv](https://arxiv.org/abs/2406.17260)
+**2024 · EMNLP 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.846) · [Code](https://github.com/NafisSadeq/rolefact.git) · [arXiv](https://arxiv.org/abs/2406.17260)
 
 Benchmark: SGR Dataset
 
@@ -621,7 +621,7 @@ Benchmark: Role-playing
 
 Jiaheng Liu; Zehao Ni; Haoran Que; Tao Sun; Noah Wang; Jian Yang; Jiakai Wang; Hongcheng Guo; Z. Peng; Ge Zhang; Jiayi Tian; Xingyuan Bu; Ke Xu; Wenge Rong; Junran Peng; Zhaoxiang Zhang
 
-**2024 · Advances in Neural Information Processing Systems** · [Paper](https://doi.org/10.52202/079017-1563)
+**2024 · NeurIPS 2024** · [Paper](https://doi.org/10.52202/079017-1563)
 
 Benchmark: RoleAgentBench
 
@@ -630,7 +630,7 @@ Benchmark: RoleAgentBench
 
 Zekun Moore Wang; Zhongyuan Peng; Haoran Que; Jiaheng Liu; Wangchunshu Zhou; Yuhan Wu; Hongcheng Guo; Ruitong Gan; Zehao Ni; Jian Yang; Man Zhang; Zhaoxiang Zhang; Wanli Ouyang; Ke Xu; Stephen W. Huang; Jie Fu; Junran Peng
 
-**2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
+**2024 · ACL 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
 
 Benchmark: RoleBench
 
@@ -639,7 +639,7 @@ Benchmark: RoleBench
 
 Hongzhan Chen; Hehong Chen; Ming Yan; Wenshen Xu; Xing Gao; Weizhou Shen; Xiaojun Quan; Chenliang Li; Ji Zhang; Fei Huang; Jingren Zhou
 
-**2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.125) · [Code](https://github.com/X-PLUG/SocialBench) · [arXiv](https://arxiv.org/abs/2403.13679)
+**2024 · ACL 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.125) · [Code](https://github.com/X-PLUG/SocialBench) · [arXiv](https://arxiv.org/abs/2403.13679)
 
 Benchmark: SocialBench
 
@@ -657,7 +657,7 @@ Benchmark: Thinking Before Speaking
 
 Jaewoo Ahn; Taehyun Lee; Junyoung Lim; Jin-Hwa Kim; Sangdoo Yun; Hwaran Lee; Gunhee Kim
 
-**2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.197) · [arXiv](https://arxiv.org/abs/2405.18027)
+**2024 · ACL 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.197) · [arXiv](https://arxiv.org/abs/2405.18027)
 
 Benchmark: TIMECHARA
 

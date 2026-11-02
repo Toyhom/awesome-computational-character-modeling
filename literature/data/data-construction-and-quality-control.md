@@ -9,7 +9,7 @@ Survey §IV.C · [Back to README](../../README.md#data-data-construction-and-qua
 
 Zhenhua Xu; Dongsheng Chen; Shuo Wang; Jian Li; Chengjie Wang; Meng Han; Yabiao Wang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
 
 <a id="zhang2026facts"></a>
 ## From Facts to Insights: A Persona-Driven Dual Memory Framework and Dataset for Role-Playing Agents
@@ -30,7 +30,7 @@ Zhenyu Wang; Xiaofen Xing; Yirong Chen; Xiangmin Xu
 
 Huayi Lai; Shichao Song; Simin Niu; Hanyu Wang; Jiawei Yang; Zhouxing Wang; Zhiqiang Yin; Xun Liang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
 
 <a id="li2025audiorole"></a>
 ## AudioRole: An Audio Dataset for Character Role-Playing in Large Language Models
@@ -44,14 +44,14 @@ Wenyu Li; Xiaoqi Jiao; Yi Chang; Guangyan Zhang; Yiwen Guo
 
 Jinfeng Zhou; Yongkang Huang; Bosi Wen; Guanqun Bi; Yuxuan Chen; Pei Ke; Zhuang Chen; Xiyao Xiao; Libiao Peng; Kuntian Tang; Rongsheng Zhang; Le Zhang; Tangjie Lv; Zhipeng Hu; Hongning Wang; Minlie Huang
 
-**2025 · Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
+**2025 · AAAI 2025** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
 
 <a id="wang2025coser"></a>
 ## CoSER: Coordinating LLM-Based Persona Simulation of Established Roles
 
 Xintao Wang; Heng Wang; Yifei Zhang; Xinfeng Yuan; Rui Xu; Jen-tse Huang; Siyu Yuan; Haoran Guo; Jiangjie Chen; Shuchang Zhou; Wei Wang; Yanghua Xiao
 
-**2025 · Proceedings of the 42nd International Conference on Machine Learning** · [Paper](https://arxiv.org/abs/2502.09082)
+**2025 · ICML 2025** · [Paper](https://arxiv.org/abs/2502.09082)
 
 <a id="wang2025opencharacter"></a>
 ## OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas
@@ -65,39 +65,39 @@ Xiaoyang Wang; Hongming Zhang; Tao Ge; Wenhao Yu; Dian Yu; Dong Yu
 
 Junru Lu; Jiazheng Li; Guodong Shen; Lin Gui; Siyu An; Yulan He; Di Yin; Xing Sun
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1082) · [Code](https://github.com/LuJunru/RoleMRC) · [arXiv](https://arxiv.org/abs/2502.11387)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1082) · [Code](https://github.com/LuJunru/RoleMRC) · [arXiv](https://arxiv.org/abs/2502.11387)
 
 <a id="wang2023rolellm"></a>
 ## RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
 
 Zekun Moore Wang; Zhongyuan Peng; Haoran Que; Jiaheng Liu; Wangchunshu Zhou; Yuhan Wu; Hongcheng Guo; Ruitong Gan; Zehao Ni; Jian Yang; Man Zhang; Zhaoxiang Zhang; Wanli Ouyang; Ke Xu; Stephen W. Huang; Jie Fu; Junran Peng
 
-**2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
+**2024 · ACL 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
 
 <a id="rafailov2023direct"></a>
 ## Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 
 Rafael Rafailov; Archit Sharma; Eric Mitchell; Stefano Ermon; Christopher D. Manning; Chelsea Finn
 
-**2023 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2305.18290)
+**2023 · NeurIPS 2023** · [Paper](https://arxiv.org/abs/2305.18290)
 
 <a id="wang2022self"></a>
 ## Self-Instruct: Aligning Language Models with Self-Generated Instructions
 
 Yizhong Wang; Yeganeh Kordi; Swaroop Mishra; Alisa Liu; Noah A. Smith; Daniel Khashabi; Hannaneh Hajishirzi
 
-**2023 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2023.acl-long.754) · [Code](https://github.com/yizhongw/self-instruct) · [arXiv](https://arxiv.org/abs/2212.10560)
+**2023 · ACL 2023** · [Paper](https://doi.org/10.18653/v1/2023.acl-long.754) · [Code](https://github.com/yizhongw/self-instruct) · [arXiv](https://arxiv.org/abs/2212.10560)
 
 <a id="wei2021finetuned"></a>
 ## Finetuned Language Models Are Zero-Shot Learners
 
 Jason Wei; Maarten Bosma; Vincent Y. Zhao; Kelvin Guu; Adams Wei Yu; Brian Lester; Nan Du; Andrew M. Dai; Quoc V. Le
 
-**2022 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2109.01652)
+**2022 · ICLR 2022** · [Paper](https://arxiv.org/abs/2109.01652)
 
 <a id="ouyang2022training"></a>
 ## Training language models to follow instructions with human feedback
 
 Long Ouyang; Jeff Wu; Xu Jiang; Diogo Almeida; Carroll L. Wainwright; Pamela Mishkin; Chong Zhang; Sandhini Agarwal; Katarina Slama; Alex Ray; John Schulman; Jacob Hilton; Fraser Kelton; Luke Miller; Maddie Simens; Amanda Askell; Peter Welinder; Paul Christiano; Jan Leike; Ryan Lowe
 
-**2022 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2203.02155)
+**2022 · NeurIPS 2022** · [Paper](https://arxiv.org/abs/2203.02155)

@@ -9,7 +9,7 @@ Survey §IV.E · [Back to README](../../README.md#data-data-affordances-and-mode
 
 Zhenhua Xu; Dongsheng Chen; Shuo Wang; Jian Li; Chengjie Wang; Meng Han; Yabiao Wang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
 
 <a id="zhang2026facts"></a>
 ## From Facts to Insights: A Persona-Driven Dual Memory Framework and Dataset for Role-Playing Agents
@@ -23,28 +23,28 @@ Rongsheng Zhang; Ruofan Hu; Weijie Chen; Jiji Tang; Junnan Ren; Wanying Wu; Xunu
 
 Xilong Cheng; Yunxiao Qin; Yuting Tan; Zhengnan Li; Ye Wang; Hongjiang Xiao; Yuan Zhang
 
-**2026 · Transactions of the Association for Computational Linguistics** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
+**2026 · TACL** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
 
 <a id="lai2026rolecde"></a>
 ## RoleCDE:Benchmarking and Mitigating Role-Alignment Trade-offs in Role-Playing Agents
 
 Huayi Lai; Shichao Song; Simin Niu; Hanyu Wang; Jiawei Yang; Zhouxing Wang; Zhiqiang Yin; Xun Liang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
 
 <a id="wang2025coser"></a>
 ## CoSER: Coordinating LLM-Based Persona Simulation of Established Roles
 
 Xintao Wang; Heng Wang; Yifei Zhang; Xinfeng Yuan; Rui Xu; Jen-tse Huang; Siyu Yuan; Haoran Guo; Jiangjie Chen; Shuchang Zhou; Wei Wang; Yanghua Xiao
 
-**2025 · Proceedings of the 42nd International Conference on Machine Learning** · [Paper](https://arxiv.org/abs/2502.09082)
+**2025 · ICML 2025** · [Paper](https://arxiv.org/abs/2502.09082)
 
 <a id="lu2025rolemrc"></a>
 ## RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following
 
 Junru Lu; Jiazheng Li; Guodong Shen; Lin Gui; Siyu An; Yulan He; Di Yin; Xing Sun
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1082) · [Code](https://github.com/LuJunru/RoleMRC) · [arXiv](https://arxiv.org/abs/2502.11387)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1082) · [Code](https://github.com/LuJunru/RoleMRC) · [arXiv](https://arxiv.org/abs/2502.11387)
 
 <a id="bai2024baijia"></a>
 ## BaiJia: A Large-Scale Role-Playing Agent Corpus of Chinese Historical Characters
@@ -58,11 +58,11 @@ Ting Bai; Jiazheng Kang; Jiayang Fan
 
 Yiting Ran; Xintao Wang; Rui Xu; Xinfeng Yuan; Jiaqing Liang; Deqing Yang; Yanghua Xiao
 
-**2024 · Findings of the Association for Computational Linguistics: EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.853) · [Code](https://github.com/alienet1109/RolePersonality) · [arXiv](https://arxiv.org/abs/2406.18921)
+**2024 · EMNLP 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.853) · [Code](https://github.com/alienet1109/RolePersonality) · [arXiv](https://arxiv.org/abs/2406.18921)
 
 <a id="wang2023rolellm"></a>
 ## RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
 
 Zekun Moore Wang; Zhongyuan Peng; Haoran Que; Jiaheng Liu; Wangchunshu Zhou; Yuhan Wu; Hongcheng Guo; Ruitong Gan; Zehao Ni; Jian Yang; Man Zhang; Zhaoxiang Zhang; Wanli Ouyang; Ke Xu; Stephen W. Huang; Jie Fu; Junran Peng
 
-**2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)
+**2024 · ACL 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.878) · [arXiv](https://arxiv.org/abs/2310.00746)

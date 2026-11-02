@@ -9,7 +9,7 @@ Survey §III.B · [Back to README](../../README.md#methods-internal-cognitive-st
 
 Xi Chen; Wei Xue; Yike Guo
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1718) · [arXiv](https://arxiv.org/abs/2604.11103)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1718) · [arXiv](https://arxiv.org/abs/2604.11103)
 
 <a id="peng2026bookmarks"></a>
 ## BOOKMARKS: Efficient Active Storyline Memory for Role-playing
@@ -51,7 +51,7 @@ Yuxin Liu; Mingye Zhu; Siyuan Liu; Bo Hu; Lei Zhang
 
 Chengyu Du; Xintao Wang; Aili Chen; Weiyuan Li; Rui Xu; Junteng Liu; Zishan Huang; Rong Tian; Zijun Sun; Yuhao Li; Liheng Feng; Deming Ding; Pengyu Zhao; Yanghua Xiao
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1283) · [arXiv](https://arxiv.org/abs/2601.21459)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1283) · [arXiv](https://arxiv.org/abs/2601.21459)
 
 <a id="xu2026improving"></a>
 ## Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization
@@ -65,14 +65,14 @@ Zhenhua Xu; Dongsheng Chen; Jian Li; Yitong Lin; Zhebo Wang; Jiafu Wu; Yizhang J
 
 Kai Wang; Haoyang You; Yang Zhang; Zhongjie Wang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1175) · [arXiv](https://arxiv.org/abs/2603.19313)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1175) · [arXiv](https://arxiv.org/abs/2603.19313)
 
 <a id="cheng2025psymem"></a>
 ## PsyMem: Fine-grained psychological alignment and Explicit Memory Control for Advanced Role-Playing LLMs
 
 Xilong Cheng; Yunxiao Qin; Yuting Tan; Zhengnan Li; Ye Wang; Hongjiang Xiao; Yuan Zhang
 
-**2026 · Transactions of the Association for Computational Linguistics** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
+**2026 · TACL** · [Paper](https://doi.org/10.1162/tacl.a.645) · [arXiv](https://arxiv.org/abs/2505.12814)
 
 <a id="wang2026reward"></a>
 ## Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing
@@ -107,28 +107,28 @@ Perapard Ngokpol; Kun Kerdthaisong; Pasin Buakhaw; Pitikorn Khlaisamniang; Supas
 
 Zixiao Wang; Duzhen Zhang; Ishita Agrawal; Shen Gao; Le Song; Xiuying Chen
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1094) · [arXiv](https://arxiv.org/abs/2502.12988)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1094) · [arXiv](https://arxiv.org/abs/2502.12988)
 
 <a id="wang2025coser"></a>
 ## CoSER: Coordinating LLM-Based Persona Simulation of Established Roles
 
 Xintao Wang; Heng Wang; Yifei Zhang; Xinfeng Yuan; Rui Xu; Jen-tse Huang; Siyu Yuan; Haoran Guo; Jiangjie Chen; Shuchang Zhou; Wei Wang; Yanghua Xiao
 
-**2025 · Proceedings of the 42nd International Conference on Machine Learning** · [Paper](https://arxiv.org/abs/2502.09082)
+**2025 · ICML 2025** · [Paper](https://arxiv.org/abs/2502.09082)
 
 <a id="ji2025enhancing"></a>
 ## Enhancing Persona Consistency for LLMs' Role-Playing using Persona-Aware Contrastive Learning
 
 Ke Ji; Yixin Lian; Linxu Li; Jingsheng Gao; Weiyuan Li; Bin Dai
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1344) · [arXiv](https://arxiv.org/abs/2503.17662)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.1344) · [arXiv](https://arxiv.org/abs/2503.17662)
 
 <a id="xu2025guess"></a>
 ## Guess What I am Thinking: A Benchmark for Inner Thought Reasoning of Role-Playing Language Agents
 
 Rui Xu; MingYu Wang; XinTao Wang; Dakuan Lu; Xiaoyu Tan; Wei Chu; Yinghui Xu
 
-**2025 · Findings of the Association for Computational Linguistics: EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.819) · [Code](https://github.com/airaer1998/RPA_Thought) · [arXiv](https://arxiv.org/abs/2503.08193)
+**2025 · EMNLP 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-emnlp.819) · [Code](https://github.com/airaer1998/RPA_Thought) · [arXiv](https://arxiv.org/abs/2503.08193)
 
 <a id="chen2025moom"></a>
 ## MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues
@@ -142,7 +142,7 @@ Weishu Chen; Jinyi Tang; Zhouhui Hou; Shihao Han; Mingjie Zhan; Zhiyuan Huang; D
 
 Haiming Qin; Jiwei Zhang; Wei Zhang; KeZhong Lu; Mingyang Zhou; Hao Liao; Rui Mao
 
-**2025 · Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1372)
+**2025 · EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1372)
 
 <a id="wang2025raiden"></a>
 ## RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward
@@ -156,28 +156,28 @@ Zongsheng Wang; Kaili Sun; Bowen Wu; Qun Yu; Ying Li; Baoxun Wang
 
 Xiachong Feng; Longxu Dou; Lingpeng Kong
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.537) · [arXiv](https://arxiv.org/abs/2502.16940)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.537) · [arXiv](https://arxiv.org/abs/2502.16940)
 
 <a id="zhang2024revealing"></a>
 ## Revealing and Mitigating the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing
 
 Wenyuan Zhang; Shuaiyi Nie; Jiawei Sheng; Zefeng Zhang; Xinghua Zhang; Yongquan He; Tingwen Liu
 
-**2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1689) · [arXiv](https://arxiv.org/abs/2409.11726)
+**2025 · EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1689) · [arXiv](https://arxiv.org/abs/2409.11726)
 
 <a id="kong2024sharp"></a>
 ## SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs
 
 Chuyi Kong; Ziyang Luo; Hongzhan Lin; Zhiyuan Fan; Yaxin Fan; Yuxi Sun; Jing Ma
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.47) · [arXiv](https://arxiv.org/abs/2411.07965)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.47) · [arXiv](https://arxiv.org/abs/2411.07965)
 
 <a id="liu2024tell"></a>
 ## Tell Me What You Don't Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing
 
 Wenhao Liu; Siyu An; Junru Lu; Muling Wu; Tianlong Li; Xiaohua Wang; Changze lv; Xiaoqing Zheng; Di Yin; Xing Sun; Xuanjing Huang
 
-**2025 · Findings of the Association for Computational Linguistics: ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.311) · [arXiv](https://arxiv.org/abs/2409.16913)
+**2025 · ACL 2025 (Findings)** · [Paper](https://doi.org/10.18653/v1/2025.findings-acl.311) · [arXiv](https://arxiv.org/abs/2409.16913)
 
 <a id="tang2025thinking"></a>
 ## Thinking in Character: Advancing Role-Playing Agents with Role-Aware Reasoning
@@ -191,14 +191,14 @@ Yihong Tang; Kehai Chen; Muyun Yang; Zhengyu Niu; Jing Li; Tiejun Zhao; Min Zhan
 
 Nafis Sadeq; Zhouhang Xie; Byungkyu Kang; Prarit Lamba; Xiang Gao; Julian McAuley
 
-**2024 · Findings of the Association for Computational Linguistics: EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.846) · [Code](https://github.com/NafisSadeq/rolefact.git) · [arXiv](https://arxiv.org/abs/2406.17260)
+**2024 · EMNLP 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.846) · [Code](https://github.com/NafisSadeq/rolefact.git) · [arXiv](https://arxiv.org/abs/2406.17260)
 
 <a id="liu2024roleagent"></a>
 ## RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts
 
 Jiaheng Liu; Zehao Ni; Haoran Que; Tao Sun; Noah Wang; Jian Yang; Jiakai Wang; Hongcheng Guo; Z. Peng; Ge Zhang; Jiayi Tian; Xingyuan Bu; Ke Xu; Wenge Rong; Junran Peng; Zhaoxiang Zhang
 
-**2024 · Advances in Neural Information Processing Systems** · [Paper](https://doi.org/10.52202/079017-1563)
+**2024 · NeurIPS 2024** · [Paper](https://doi.org/10.52202/079017-1563)
 
 <a id="zhang2024thinking"></a>
 ## Thinking Before Speaking: A Role-playing Model with Mindset
@@ -212,39 +212,39 @@ Baohua Zhang; Yongyi Huang; Wenyao Cui; Huaping Zhang
 
 Shunyu Yao; Jeffrey Zhao; Dian Yu; Nan Du; Izhak Shafran; Karthik Narasimhan; Yuan Cao
 
-**2023 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2210.03629)
+**2023 · ICLR 2023** · [Paper](https://arxiv.org/abs/2210.03629)
 
 <a id="wei2022chain"></a>
 ## Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 
 Jason Wei; Xuezhi Wang; Dale Schuurmans; Maarten Bosma; Brian Ichter; Fei Xia; Ed Chi; Quoc Le; Denny Zhou
 
-**2022 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2201.11903)
+**2022 · NeurIPS 2022** · [Paper](https://arxiv.org/abs/2201.11903)
 
 <a id="zelikman2022star"></a>
 ## STaR: Bootstrapping Reasoning With Reasoning
 
 Eric Zelikman; Yuhuai Wu; Jesse Mu; Noah D. Goodman
 
-**2022 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2203.14465)
+**2022 · NeurIPS 2022** · [Paper](https://arxiv.org/abs/2203.14465)
 
 <a id="lewis2020retrieval"></a>
 ## Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
 
 Patrick Lewis; Ethan Perez; Aleksandra Piktus; Fabio Petroni; Vladimir Karpukhin; Naman Goyal; Heinrich Küttler; Mike Lewis; Wen-tau Yih; Tim Rocktäschel; Sebastian Riedel; Douwe Kiela
 
-**2020 · Proceedings of the 34th International Conference on Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2005.11401)
+**2020 · NeurIPS 2020** · [Paper](https://arxiv.org/abs/2005.11401)
 
 <a id="david1978does"></a>
 ## Does the chimpanzee have a theory of mind?
 
 Premack, David; Woodruff, Guy
 
-**1978 · Behavioral and Brain Sciences** · [Paper](https://doi.org/10.1017/S0140525X00076512)
+**1978 · Behav. Brain Sci.** · [Paper](https://doi.org/10.1017/S0140525X00076512)
 
 <a id="tolman1948cognitive"></a>
 ## Cognitive Maps in Rats and Men
 
 Edward C. Tolman
 
-**1948 · Psychological Review** · [Paper](https://doi.org/10.1037/h0061626)
+**1948 · Psychol. Rev.** · [Paper](https://doi.org/10.1037/h0061626)

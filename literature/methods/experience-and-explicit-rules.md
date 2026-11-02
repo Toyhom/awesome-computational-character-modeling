@@ -16,7 +16,7 @@ Letian Peng; Yupeng Hou; Kun Zhou; Jingbo Shang
 
 Letian Peng; Kun Zhou; Longfei Yun; Yupeng Hou; Jingbo Shang
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.568) · [arXiv](https://arxiv.org/abs/2601.10080)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.568) · [arXiv](https://arxiv.org/abs/2601.10080)
 
 <a id="zhang2026facts"></a>
 ## From Facts to Insights: A Persona-Driven Dual Memory Framework and Dataset for Role-Playing Agents
@@ -44,7 +44,7 @@ Letian Peng; Jingbo Shang
 
 Libo Sun; Siyuan Wang; Xuanjing Huang; Zhongyu Wei
 
-**2025 · Lecture Notes in Computer Science** · [Paper](https://doi.org/10.1007/978-981-95-3346-6_31) · [arXiv](https://arxiv.org/abs/2407.19412)
+**2025 · NLPCC 2025** · [Paper](https://doi.org/10.1007/978-981-95-3346-6_31) · [arXiv](https://arxiv.org/abs/2407.19412)
 
 <a id="liu2025operation"></a>
 ## Operation Veja: Fixing Fundamental Concepts Missing from Modern Roleplaying Training Paradigms
@@ -58,21 +58,21 @@ Yueze Liu; Ajay Nagi Reddy Kumdam; Ronit Kanjilal; Hao Yang; Yichi Zhang
 
 Xinfeng Yuan; Siyu Yuan; Yuhan Cui; Tianhe Lin; Xintao Wang; Rui Xu; Jiangjie Chen; Deqing Yang
 
-**2024 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.456) · [Code](https://github.com/Joanna0123/character_profiling) · [arXiv](https://arxiv.org/abs/2404.12726)
+**2024 · EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.456) · [Code](https://github.com/Joanna0123/character_profiling) · [arXiv](https://arxiv.org/abs/2404.12726)
 
 <a id="peng2024quantifying"></a>
 ## Quantifying and Optimizing Global Faithfulness in Persona-driven Role-playing
 
 Letian Peng; Jingbo Shang
 
-**2024 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2405.07726)
+**2024 · NeurIPS 2024** · [Paper](https://arxiv.org/abs/2405.07726)
 
 <a id="shao2023character"></a>
 ## Character-LLM: A Trainable Agent for Role-Playing
 
 Yunfan Shao; Linyang Li; Junqi Dai; Xipeng Qiu
 
-**2023 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://arxiv.org/abs/2310.10158)
+**2023 · EMNLP 2023** · [Paper](https://arxiv.org/abs/2310.10158)
 
 <a id="bai2022constitutional"></a>
 ## Constitutional AI: Harmlessness from AI Feedback
@@ -86,7 +86,7 @@ Yuntao Bai; Saurav Kadavath; Sandipan Kundu; Amanda Askell; Jackson Kernion; And
 
 Dan P. McAdams
 
-**2001 · Review of General Psychology** · [Paper](https://doi.org/10.1037/1089-2680.5.2.100)
+**2001 · Rev. Gen. Psychol.** · [Paper](https://doi.org/10.1037/1089-2680.5.2.100)
 
 <a id="biddle1979role"></a>
 ## Role Theory: Expectations, Identities, and Behaviors

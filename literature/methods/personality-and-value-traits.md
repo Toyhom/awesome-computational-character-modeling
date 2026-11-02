@@ -9,7 +9,7 @@ Survey §III.E · [Back to README](../../README.md#methods-personality-and-value
 
 Wenqiu Tang; Zhen Wan; Takahiro Komamizu; Ichiro Ide
 
-**2026 · Lecture Notes in Computer Science** · [Paper](https://doi.org/10.1007/978-981-92-1947-6_33) · [Code](https://github.com/lunat5078/BigFive-Personality-Facets-Dataset) · [arXiv](https://arxiv.org/abs/2602.19157)
+**2026 · PAKDD 2026** · [Paper](https://doi.org/10.1007/978-981-92-1947-6_33) · [Code](https://github.com/lunat5078/BigFive-Personality-Facets-Dataset) · [arXiv](https://arxiv.org/abs/2602.19157)
 
 <a id="jun2026identifying"></a>
 ## Identifying and Mitigating Bottlenecks in Role-Playing Agents: A Systematic Study of Disentangling Character Profile Axes
@@ -30,21 +30,21 @@ Zhenyu Wang; Xiaofen Xing; Yirong Chen; Xiangmin Xu
 
 Huayi Lai; Shichao Song; Simin Niu; Hanyu Wang; Jiawei Yang; Zhouxing Wang; Zhiqiang Yin; Xun Liang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.106) · [Code](https://github.com/rabbitrose/RoleCDE) · [arXiv](https://arxiv.org/abs/2606.01552)
 
 <a id="yi2025too"></a>
 ## Too Good to be Bad: On the Failure of LLMs to Role-Play Villains
 
 Zihao Yi; Qingxuan Jiang; Ruotian Ma; Xingyu Chen; Qu Yang; Mengru Wang; Fanghua Ye; Ying Shen; Zhaopeng Tu; Xiaolong Li; Linus
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.282) · [arXiv](https://arxiv.org/abs/2511.04962)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.282) · [arXiv](https://arxiv.org/abs/2511.04962)
 
 <a id="shah2026too"></a>
 ## Too Nice to Tell the Truth: Quantifying Agreeableness-Driven Sycophancy in Role-Playing Language Models
 
 Arya Shah; Deepali Mishra; Chaklam Silpasuwanchai
 
-**2026 · Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.1421) · [arXiv](https://arxiv.org/abs/2604.10733)
+**2026 · ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.acl-long.1421) · [arXiv](https://arxiv.org/abs/2604.10733)
 
 <a id="anon2025enhancing"></a>
 ## Enhancing Character-Coherent Role-Playing Dialogue with a Verifiable Emotion Reward
@@ -65,14 +65,14 @@ Tao Yang; Yuhua Zhu; Xiaojun Quan; Cong Liu; Qifan Wang
 
 Wang, Ye; Li, Tong; Li, Meixuan; Cheng, Ziyue; Wang, Ge; Kang, Hanyue; Deng, Yaling; Xiao, Hongjiang; Zhang, Yuan
 
-**2025 · Computers in Human Behavior: Artificial Humans** · [Paper](https://doi.org/10.1016/j.chbah.2025.100184)
+**2025 · CHBAH** · [Paper](https://doi.org/10.1016/j.chbah.2025.100184)
 
 <a id="ran2024capturing"></a>
 ## Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data
 
 Yiting Ran; Xintao Wang; Rui Xu; Xinfeng Yuan; Jiaqing Liang; Deqing Yang; Yanghua Xiao
 
-**2024 · Findings of the Association for Computational Linguistics: EMNLP 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.853) · [Code](https://github.com/alienet1109/RolePersonality) · [arXiv](https://arxiv.org/abs/2406.18921)
+**2024 · EMNLP 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.853) · [Code](https://github.com/alienet1109/RolePersonality) · [arXiv](https://arxiv.org/abs/2406.18921)
 
 <a id="xu2024character"></a>
 ## Character is Destiny: Can Role-Playing Language Agents Make Persona-Driven Decisions?
@@ -86,7 +86,7 @@ Rui Xu; Xintao Wang; Jiangjie Chen; Siyu Yuan; Xinfeng Yuan; Jiaqing Liang; Zulo
 
 Xintao Wang; Yunze Xiao; Jen-tse Huang; Siyu Yuan; Rui Xu; Haoran Guo; Quan Tu; Yaying Fei; Ziang Leng; Wei Wang; Jiangjie Chen; Cheng Li; Yanghua Xiao
 
-**2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.102) · [arXiv](https://arxiv.org/abs/2310.17976)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.102) · [arXiv](https://arxiv.org/abs/2310.17976)
 
 <a id="zhao2024role"></a>
 ## Role-Play Paradox in Large Language Models: Reasoning Performance Gains and Ethical Dilemmas
@@ -100,7 +100,7 @@ Jinman Zhao; Zifan Qian; Linbo Cao; Yining Wang; Yitian Ding; Yulan Hu; Zeyu Zha
 
 Ryan Shea; Zhou Yu
 
-**2023 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2023.emnlp-main.110) · [arXiv](https://arxiv.org/abs/2310.10735)
+**2023 · EMNLP 2023** · [Paper](https://doi.org/10.18653/v1/2023.emnlp-main.110) · [arXiv](https://arxiv.org/abs/2310.10735)
 
 <a id="tu2023characterchat"></a>
 ## CharacterChat: Learning towards Conversational AI with Personalized Social Support
@@ -121,11 +121,11 @@ Keyu Pan; Yawen Zeng
 
 Joseph Bates
 
-**1994 · Communications of the ACM** · [Paper](https://doi.org/10.1145/176789.176803)
+**1994 · CACM** · [Paper](https://doi.org/10.1145/176789.176803)
 
 <a id="schwartz1992universals"></a>
 ## Universals in the Content and Structure of Values
 
 Shalom H. Schwartz
 
-**1992 · Advances in Experimental Social Psychology** · [Paper](https://doi.org/10.1016/S0065-2601%2808%2960281-6)
+**1992 · Adv. Exp. Soc. Psychol.** · [Paper](https://doi.org/10.1016/S0065-2601%2808%2960281-6)

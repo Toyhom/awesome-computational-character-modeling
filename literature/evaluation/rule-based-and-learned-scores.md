@@ -23,14 +23,14 @@ Rongsheng Zhang; Ruofan Hu; Weijie Chen; Jiji Tang; Junnan Ren; Wanying Wu; Xunu
 
 Jinfeng Zhou; Yongkang Huang; Bosi Wen; Guanqun Bi; Yuxuan Chen; Pei Ke; Zhuang Chen; Xiyao Xiao; Libiao Peng; Kuntian Tang; Rongsheng Zhang; Le Zhang; Tangjie Lv; Zhipeng Hu; Hongning Wang; Minlie Huang
 
-**2025 · Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
+**2025 · AAAI 2025** · [Paper](https://doi.org/10.1609/AAAI.V39I24.34806)
 
 <a id="tu2024charactereval"></a>
 ## CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation
 
 Quan Tu; Shilong Fan; Zihang Tian; Rui Yan
 
-**2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.638) · [Code](https://github.com/morecry/CharacterEval) · [arXiv](https://arxiv.org/abs/2401.01275)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.638) · [Code](https://github.com/morecry/CharacterEval) · [arXiv](https://arxiv.org/abs/2401.01275)
 
 <a id="shen2023roleeval"></a>
 ## RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models

@@ -16,18 +16,18 @@ Haotian Wu; Shufan Jiang; Chios Chen; Yiyang Feng; Hehai Lin; Heqing Zou; Yao Sh
 
 Xueqiao Zhang; Chao Zhang; Jingtao Xu; Yifan Zhu; Xin Shi; Yi Yang; Yawei Luo
 
-**2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
+**2025 · EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
 
 <a id="liu2023g"></a>
 ## G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment
 
 Yang Liu; Dan Iter; Yichong Xu; Shuohang Wang; Ruochen Xu; Chenguang Zhu
 
-**2023 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2023.emnlp-main.153) · [Code](https://github.com/nlpyang/geval) · [arXiv](https://arxiv.org/abs/2303.16634)
+**2023 · EMNLP 2023** · [Paper](https://doi.org/10.18653/v1/2023.emnlp-main.153) · [Code](https://github.com/nlpyang/geval) · [arXiv](https://arxiv.org/abs/2303.16634)
 
 <a id="zheng2023judging"></a>
 ## Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
 
 Lianmin Zheng; Wei-Lin Chiang; Ying Sheng; Siyuan Zhuang; Zhanghao Wu; Yonghao Zhuang; Zi Lin; Zhuohan Li; Dacheng Li; Eric P. Xing; Hao Zhang; Joseph E. Gonzalez; Ion Stoica
 
-**2023 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2306.05685) · [Code](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
+**2023 · NeurIPS 2023** · [Paper](https://arxiv.org/abs/2306.05685) · [Code](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)

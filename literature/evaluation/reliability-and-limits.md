@@ -23,25 +23,25 @@ Haotian Wu; Shufan Jiang; Chios Chen; Yiyang Feng; Hehai Lin; Heqing Zou; Yao Sh
 
 Xueqiao Zhang; Chao Zhang; Jingtao Xu; Yifan Zhu; Xin Shi; Yi Yang; Yawei Luo
 
-**2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
+**2025 · EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
 
 <a id="walker1997paradise"></a>
 ## PARADISE: A Framework for Evaluating Spoken Dialogue Agents
 
 Marilyn A. Walker; Diane J. Litman; Candace A. Kamm; Alicia Abella
 
-**1997 · 35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics** · [Paper](https://doi.org/10.3115/976909.979652)
+**1997 · ACL/EACL 1997** · [Paper](https://doi.org/10.3115/976909.979652)
 
 <a id="messick1995validity"></a>
 ## Validity of Psychological Assessment
 
 Samuel Messick
 
-**1995 · American Psychologist** · [Paper](https://doi.org/10.1037/0003-066X.50.9.741)
+**1995 · Am. Psychol.** · [Paper](https://doi.org/10.1037/0003-066X.50.9.741)
 
 <a id="cronbach1955construct"></a>
 ## Construct Validity in Psychological Tests
 
 Lee J. Cronbach; Paul E. Meehl
 
-**1955 · Psychological Bulletin** · [Paper](https://doi.org/10.1037/h0040957)
+**1955 · Psychol. Bull.** · [Paper](https://doi.org/10.1037/h0040957)

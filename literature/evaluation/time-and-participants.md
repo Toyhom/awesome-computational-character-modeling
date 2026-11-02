@@ -9,7 +9,7 @@ Survey §V.B · [Back to README](../../README.md#evaluation-time-and-participant
 
 Lei Wang; Jianxun Lian; Yi Huang; Yanqi Dai; Haoxuan Li; Xu Chen; Xing Xie; Ji-Rong Wen
 
-**2025 · Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL)** · [Paper](https://doi.org/10.18653/v1/2025.naacl-long.323) · [arXiv](https://arxiv.org/abs/2412.05631)
+**2025 · NAACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.naacl-long.323) · [arXiv](https://arxiv.org/abs/2412.05631)
 
 <a id="chuang2025debate"></a>
 ## DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents
@@ -30,4 +30,4 @@ Haotian Wu; Shufan Jiang; Chios Chen; Yiyang Feng; Hehai Lin; Heqing Zou; Yao Sh
 
 Quan Tu; Shilong Fan; Zihang Tian; Rui Yan
 
-**2024 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.638) · [Code](https://github.com/morecry/CharacterEval) · [arXiv](https://arxiv.org/abs/2401.01275)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.638) · [Code](https://github.com/morecry/CharacterEval) · [arXiv](https://arxiv.org/abs/2401.01275)

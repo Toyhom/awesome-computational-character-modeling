@@ -9,7 +9,7 @@ Survey §III.D · [Back to README](../../README.md#methods-situated-interaction)
 
 Zhenhua Xu; Dongsheng Chen; Shuo Wang; Jian Li; Chengjie Wang; Meng Han; Yabiao Wang
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1563) · [arXiv](https://arxiv.org/abs/2601.11007)
 
 <a id="zhang2026dynsess"></a>
 ## DynSess: Dynamic Session-Level Evaluation and Optimization Framework for Role-Playing Agents
@@ -23,28 +23,28 @@ Rongsheng Zhang; Jiji Tang; Junnan Ren; Zuyi Bao; Weijie Chen; Ruofan Hu; Zhou Z
 
 Wenlong Shi; Jianxun Lian; Mingqi Wu; Haiming Qin; Mingyang Zhou; Xing Xie; Naipeng Chao; Hao Liao
 
-**2026 · Findings of the Association for Computational Linguistics: ACL 2026** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.471) · [arXiv](https://arxiv.org/abs/2605.17044)
+**2026 · ACL 2026 (Findings)** · [Paper](https://doi.org/10.18653/v1/2026.findings-acl.471) · [arXiv](https://arxiv.org/abs/2605.17044)
 
 <a id="wang2024characterbox"></a>
 ## CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds
 
 Lei Wang; Jianxun Lian; Yi Huang; Yanqi Dai; Haoxuan Li; Xu Chen; Xing Xie; Ji-Rong Wen
 
-**2025 · Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL)** · [Paper](https://doi.org/10.18653/v1/2025.naacl-long.323) · [arXiv](https://arxiv.org/abs/2412.05631)
+**2025 · NAACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.naacl-long.323) · [arXiv](https://arxiv.org/abs/2412.05631)
 
 <a id="zhang2025roleplot"></a>
 ## RolePlot: A Systematic Framework for Evaluating and Enhancing the Plot-Progression Capabilities of Role-Playing Agents
 
 Pinyi Zhang; Siyu An; Lingfeng Qiao; Yifei Yu; Jingyang Chen; Jie Wang; Di Yin; Xing Sun; Kai Zhang
 
-**2025 · Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.603)
+**2025 · ACL 2025** · [Paper](https://doi.org/10.18653/v1/2025.acl-long.603)
 
 <a id="zhang2025video2roleplay"></a>
 ## Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided Role-playing Agents
 
 Xueqiao Zhang; Chao Zhang; Jingtao Xu; Yifan Zhu; Xin Shi; Yi Yang; Yawei Luo
 
-**2025 · Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
+**2025 · EMNLP 2025** · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1209) · [arXiv](https://arxiv.org/abs/2509.15233)
 
 <a id="gusev2024pingpong"></a>
 ## PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation
@@ -58,42 +58,42 @@ Ilya Gusev
 
 Hongzhan Chen; Hehong Chen; Ming Yan; Wenshen Xu; Xing Gao; Weizhou Shen; Xiaojun Quan; Chenliang Li; Ji Zhang; Fei Huang; Jingren Zhou
 
-**2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.125) · [Code](https://github.com/X-PLUG/SocialBench) · [arXiv](https://arxiv.org/abs/2403.13679)
+**2024 · ACL 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.125) · [Code](https://github.com/X-PLUG/SocialBench) · [arXiv](https://arxiv.org/abs/2403.13679)
 
 <a id="wang2024sotopia"></a>
 ## SOTOPIA-$\\pi$: Interactive Learning of Socially Intelligent Language Agents
 
 Ruiyi Wang; Haofei Yu; Wenxin Zhang; Zhengyang Qi; Maarten Sap; Graham Neubig; Yonatan Bisk; Hao Zhu
 
-**2024 · Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.698) · [arXiv](https://arxiv.org/abs/2403.08715)
+**2024 · ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.acl-long.698) · [arXiv](https://arxiv.org/abs/2403.08715)
 
 <a id="zhou2023sotopia"></a>
 ## SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents
 
 Xuhui Zhou; Hao Zhu; Leena Mathur; Ruohong Zhang; Haofei Yu; Zhengyang Qi; Louis-Philippe Morency; Yonatan Bisk; Daniel Fried; Graham Neubig; Maarten Sap
 
-**2024 · Proceedings of the International Conference on Learning Representations (ICLR)** · [Paper](https://arxiv.org/abs/2310.11667)
+**2024 · ICLR 2024** · [Paper](https://arxiv.org/abs/2310.11667)
 
 <a id="ahn2024timechara"></a>
 ## TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models
 
 Jaewoo Ahn; Taehyun Lee; Junyoung Lim; Jin-Hwa Kim; Sangdoo Yun; Hwaran Lee; Gunhee Kim
 
-**2024 · Findings of the Association for Computational Linguistics: ACL 2024** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.197) · [arXiv](https://arxiv.org/abs/2405.18027)
+**2024 · ACL 2024 (Findings)** · [Paper](https://doi.org/10.18653/v1/2024.findings-acl.197) · [arXiv](https://arxiv.org/abs/2405.18027)
 
 <a id="li2023camel"></a>
 ## CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society
 
 Guohao Li; Hasan Abed Al Kader Hammoud; Hani Itani; Dmitrii Khizbullin; Bernard Ghanem
 
-**2023 · Advances in Neural Information Processing Systems** · [Paper](https://arxiv.org/abs/2303.17760) · [Code](https://github.com/camel-ai/camel)
+**2023 · NeurIPS 2023** · [Paper](https://arxiv.org/abs/2303.17760) · [Code](https://github.com/camel-ai/camel)
 
 <a id="park2023generative"></a>
 ## Generative Agents: Interactive Simulacra of Human Behavior
 
 Joon Sung Park; Joseph C. O'Brien; Carrie J. Cai; Meredith Ringel Morris; Percy Liang; Michael S. Bernstein
 
-**2023 · Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology** · [Paper](https://doi.org/10.1145/3586183.3606763) · [arXiv](https://arxiv.org/abs/2304.03442)
+**2023 · UIST 2023** · [Paper](https://doi.org/10.1145/3586183.3606763) · [arXiv](https://arxiv.org/abs/2304.03442)
 
 <a id="kaiya2023lyfe"></a>
 ## Lyfe Agents: Generative agents for low-cost real-time social interactions
